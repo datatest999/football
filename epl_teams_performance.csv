@@ -1,0 +1,1521 @@
+season,homeTeam,awayTeam,winnerName,loserName,matchScore,goalsHome,goalsAway,matchDuration
+2020,Fulham FC,Arsenal FC,Arsenal FC,Fulham FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Crystal Palace FC,Southampton FC,Crystal Palace FC,Southampton FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Liverpool FC,Leeds United FC,Liverpool FC,Leeds United FC,HOME_TEAM,4.0,3.0,REGULAR
+2020,West Ham United FC,Newcastle United FC,Newcastle United FC,West Ham United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,West Bromwich Albion FC,Leicester City FC,Leicester City FC,West Bromwich Albion FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Tottenham Hotspur FC,Everton FC,Everton FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Sheffield United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Sheffield United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Brighton & Hove Albion FC,Chelsea FC,Chelsea FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Everton FC,West Bromwich Albion FC,Everton FC,West Bromwich Albion FC,HOME_TEAM,5.0,2.0,REGULAR
+2020,Leeds United FC,Fulham FC,Leeds United FC,Fulham FC,HOME_TEAM,4.0,3.0,REGULAR
+2020,Manchester United FC,Crystal Palace FC,Crystal Palace FC,Manchester United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Arsenal FC,West Ham United FC,Arsenal FC,West Ham United FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Southampton FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Southampton FC,AWAY_TEAM,2.0,5.0,REGULAR
+2020,Newcastle United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Newcastle United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Chelsea FC,Liverpool FC,Liverpool FC,Chelsea FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Leicester City FC,Burnley FC,Leicester City FC,Burnley FC,HOME_TEAM,4.0,2.0,REGULAR
+2020,Aston Villa FC,Sheffield United FC,Aston Villa FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Manchester City FC,Manchester City FC,Wolverhampton Wanderers FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Brighton & Hove Albion FC,Manchester United FC,Manchester United FC,Brighton & Hove Albion FC,AWAY_TEAM,2.0,3.0,REGULAR
+2020,Crystal Palace FC,Everton FC,Everton FC,Crystal Palace FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,West Bromwich Albion FC,Chelsea FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2020,Burnley FC,Southampton FC,Southampton FC,Burnley FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Sheffield United FC,Leeds United FC,Leeds United FC,Sheffield United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Tottenham Hotspur FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Manchester City FC,Leicester City FC,Leicester City FC,Manchester City FC,AWAY_TEAM,2.0,5.0,REGULAR
+2020,West Ham United FC,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,HOME_TEAM,4.0,0.0,REGULAR
+2020,Fulham FC,Aston Villa FC,Aston Villa FC,Fulham FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Liverpool FC,Arsenal FC,Liverpool FC,Arsenal FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Chelsea FC,Crystal Palace FC,Chelsea FC,Crystal Palace FC,HOME_TEAM,4.0,0.0,REGULAR
+2020,Everton FC,Brighton & Hove Albion FC,Everton FC,Brighton & Hove Albion FC,HOME_TEAM,4.0,2.0,REGULAR
+2020,Leeds United FC,Manchester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Newcastle United FC,Burnley FC,Newcastle United FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Leicester City FC,West Ham United FC,West Ham United FC,Leicester City FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Southampton FC,West Bromwich Albion FC,Southampton FC,West Bromwich Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Fulham FC,Wolverhampton Wanderers FC,Fulham FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Arsenal FC,Sheffield United FC,Arsenal FC,Sheffield United FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Manchester United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Manchester United FC,AWAY_TEAM,1.0,6.0,REGULAR
+2020,Aston Villa FC,Liverpool FC,Aston Villa FC,Liverpool FC,HOME_TEAM,7.0,2.0,REGULAR
+2020,Everton FC,Liverpool FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2020,Chelsea FC,Southampton FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2020,Manchester City FC,Arsenal FC,Manchester City FC,Arsenal FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Newcastle United FC,Manchester United FC,Manchester United FC,Newcastle United FC,AWAY_TEAM,1.0,4.0,REGULAR
+2020,Sheffield United FC,Fulham FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Crystal Palace FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Tottenham Hotspur FC,West Ham United FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2020,Leicester City FC,Aston Villa FC,Aston Villa FC,Leicester City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,West Bromwich Albion FC,Burnley FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Leeds United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Leeds United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Aston Villa FC,Leeds United FC,Leeds United FC,Aston Villa FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,West Ham United FC,Manchester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Fulham FC,Crystal Palace FC,Crystal Palace FC,Fulham FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Manchester United FC,Chelsea FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Liverpool FC,Sheffield United FC,Liverpool FC,Sheffield United FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Southampton FC,Everton FC,Southampton FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Arsenal FC,Leicester City FC,Leicester City FC,Arsenal FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Brighton & Hove Albion FC,West Bromwich Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Burnley FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Burnley FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Wolverhampton Wanderers FC,Crystal Palace FC,Wolverhampton Wanderers FC,Crystal Palace FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Sheffield United FC,Manchester City FC,Manchester City FC,Sheffield United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Burnley FC,Chelsea FC,Chelsea FC,Burnley FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Liverpool FC,West Ham United FC,Liverpool FC,West Ham United FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Aston Villa FC,Southampton FC,Southampton FC,Aston Villa FC,AWAY_TEAM,3.0,4.0,REGULAR
+2020,Newcastle United FC,Everton FC,Newcastle United FC,Everton FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Manchester United FC,Arsenal FC,Arsenal FC,Manchester United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Fulham FC,West Bromwich Albion FC,Fulham FC,West Bromwich Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Leeds United FC,Leicester City FC,Leicester City FC,Leeds United FC,AWAY_TEAM,1.0,4.0,REGULAR
+2020,Brighton & Hove Albion FC,Burnley FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Southampton FC,Newcastle United FC,Southampton FC,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Everton FC,Manchester United FC,Manchester United FC,Everton FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Crystal Palace FC,Leeds United FC,Crystal Palace FC,Leeds United FC,HOME_TEAM,4.0,1.0,REGULAR
+2020,Chelsea FC,Sheffield United FC,Chelsea FC,Sheffield United FC,HOME_TEAM,4.0,1.0,REGULAR
+2020,West Ham United FC,Fulham FC,West Ham United FC,Fulham FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,West Bromwich Albion FC,Tottenham Hotspur FC,Tottenham Hotspur FC,West Bromwich Albion FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Leicester City FC,Wolverhampton Wanderers FC,Leicester City FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Manchester City FC,Liverpool FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Arsenal FC,Aston Villa FC,Aston Villa FC,Arsenal FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Newcastle United FC,Chelsea FC,Chelsea FC,Newcastle United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Aston Villa FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Aston Villa FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Tottenham Hotspur FC,Manchester City FC,Tottenham Hotspur FC,Manchester City FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Manchester United FC,West Bromwich Albion FC,Manchester United FC,West Bromwich Albion FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Fulham FC,Everton FC,Everton FC,Fulham FC,AWAY_TEAM,2.0,3.0,REGULAR
+2020,Sheffield United FC,West Ham United FC,West Ham United FC,Sheffield United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Leeds United FC,Arsenal FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Liverpool FC,Leicester City FC,Liverpool FC,Leicester City FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Burnley FC,Crystal Palace FC,Burnley FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Southampton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Crystal Palace FC,Newcastle United FC,Newcastle United FC,Crystal Palace FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Brighton & Hove Albion FC,Liverpool FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Manchester City FC,Burnley FC,Manchester City FC,Burnley FC,HOME_TEAM,5.0,0.0,REGULAR
+2020,Everton FC,Leeds United FC,Leeds United FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,West Bromwich Albion FC,Sheffield United FC,West Bromwich Albion FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Southampton FC,Manchester United FC,Manchester United FC,Southampton FC,AWAY_TEAM,2.0,3.0,REGULAR
+2020,Chelsea FC,Tottenham Hotspur FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Arsenal FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Arsenal FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Leicester City FC,Fulham FC,Fulham FC,Leicester City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,West Ham United FC,Aston Villa FC,West Ham United FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Burnley FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Manchester City FC,Fulham FC,Manchester City FC,Fulham FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,West Ham United FC,Manchester United FC,Manchester United FC,West Ham United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Chelsea FC,Leeds United FC,Chelsea FC,Leeds United FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,West Bromwich Albion FC,Crystal Palace FC,Crystal Palace FC,West Bromwich Albion FC,AWAY_TEAM,1.0,5.0,REGULAR
+2020,Sheffield United FC,Leicester City FC,Leicester City FC,Sheffield United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Tottenham Hotspur FC,Arsenal FC,Tottenham Hotspur FC,Arsenal FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Liverpool FC,Wolverhampton Wanderers FC,Liverpool FC,Wolverhampton Wanderers FC,HOME_TEAM,4.0,0.0,REGULAR
+2020,Brighton & Hove Albion FC,Southampton FC,Southampton FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Leeds United FC,West Ham United FC,West Ham United FC,Leeds United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Wolverhampton Wanderers FC,Aston Villa FC,Aston Villa FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Newcastle United FC,West Bromwich Albion FC,Newcastle United FC,West Bromwich Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Manchester United FC,Manchester City FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Everton FC,Chelsea FC,Everton FC,Chelsea FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Southampton FC,Sheffield United FC,Southampton FC,Sheffield United FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Crystal Palace FC,Tottenham Hotspur FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Fulham FC,Liverpool FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Leicester City FC,Brighton & Hove Albion FC,Leicester City FC,Brighton & Hove Albion FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Arsenal FC,Burnley FC,Burnley FC,Arsenal FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Wolverhampton Wanderers FC,Chelsea FC,Wolverhampton Wanderers FC,Chelsea FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Manchester City FC,West Bromwich Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Arsenal FC,Southampton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Leicester City FC,Everton FC,Everton FC,Leicester City FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Leeds United FC,Newcastle United FC,Leeds United FC,Newcastle United FC,HOME_TEAM,5.0,2.0,REGULAR
+2020,Fulham FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,West Ham United FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Liverpool FC,Tottenham Hotspur FC,Liverpool FC,Tottenham Hotspur FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Aston Villa FC,Burnley FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Sheffield United FC,Manchester United FC,Manchester United FC,Sheffield United FC,AWAY_TEAM,2.0,3.0,REGULAR
+2020,Crystal Palace FC,Liverpool FC,Liverpool FC,Crystal Palace FC,AWAY_TEAM,0.0,7.0,REGULAR
+2020,Southampton FC,Manchester City FC,Manchester City FC,Southampton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Everton FC,Arsenal FC,Everton FC,Arsenal FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Newcastle United FC,Fulham FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Brighton & Hove Albion FC,Sheffield United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Tottenham Hotspur FC,Leicester City FC,Leicester City FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Manchester United FC,Leeds United FC,Manchester United FC,Leeds United FC,HOME_TEAM,6.0,2.0,REGULAR
+2020,West Bromwich Albion FC,Aston Villa FC,Aston Villa FC,West Bromwich Albion FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Burnley FC,Wolverhampton Wanderers FC,Burnley FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Chelsea FC,West Ham United FC,Chelsea FC,West Ham United FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Leicester City FC,Manchester United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2020,Fulham FC,Southampton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Aston Villa FC,Crystal Palace FC,Aston Villa FC,Crystal Palace FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Arsenal FC,Chelsea FC,Arsenal FC,Chelsea FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Manchester City FC,Newcastle United FC,Manchester City FC,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Sheffield United FC,Everton FC,Everton FC,Sheffield United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Leeds United FC,Burnley FC,Leeds United FC,Burnley FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,West Ham United FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2020,Liverpool FC,West Bromwich Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Crystal Palace FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Chelsea FC,Aston Villa FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,West Bromwich Albion FC,Leeds United FC,Leeds United FC,West Bromwich Albion FC,AWAY_TEAM,0.0,5.0,REGULAR
+2020,Burnley FC,Sheffield United FC,Burnley FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Southampton FC,West Ham United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Brighton & Hove Albion FC,Arsenal FC,Arsenal FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Manchester United FC,Wolverhampton Wanderers FC,Manchester United FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Newcastle United FC,Liverpool FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Everton FC,West Ham United FC,West Ham United FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Manchester United FC,Aston Villa FC,Manchester United FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Tottenham Hotspur FC,Leeds United FC,Tottenham Hotspur FC,Leeds United FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Crystal Palace FC,Sheffield United FC,Crystal Palace FC,Sheffield United FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2020,West Bromwich Albion FC,Arsenal FC,Arsenal FC,West Bromwich Albion FC,AWAY_TEAM,0.0,4.0,REGULAR
+2020,Newcastle United FC,Leicester City FC,Leicester City FC,Newcastle United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Chelsea FC,Manchester City FC,Manchester City FC,Chelsea FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Southampton FC,Liverpool FC,Southampton FC,Liverpool FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Sheffield United FC,Newcastle United FC,Sheffield United FC,Newcastle United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Everton FC,Everton FC,Wolverhampton Wanderers FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Burnley FC,Manchester United FC,Manchester United FC,Burnley FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Manchester City FC,Brighton & Hove Albion FC,Manchester City FC,Brighton & Hove Albion FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Tottenham Hotspur FC,Fulham FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Arsenal FC,Crystal Palace FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,West Bromwich Albion FC,West Bromwich Albion FC,Wolverhampton Wanderers FC,AWAY_TEAM,2.0,3.0,REGULAR
+2020,West Ham United FC,Burnley FC,West Ham United FC,Burnley FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Leeds United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Leeds United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Fulham FC,Chelsea FC,Chelsea FC,Fulham FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Leicester City FC,Southampton FC,Leicester City FC,Southampton FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Sheffield United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Sheffield United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Liverpool FC,Manchester United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Manchester City FC,Crystal Palace FC,Manchester City FC,Crystal Palace FC,HOME_TEAM,4.0,0.0,REGULAR
+2020,Arsenal FC,Newcastle United FC,Arsenal FC,Newcastle United FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,West Ham United FC,West Bromwich Albion FC,West Ham United FC,West Bromwich Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Leicester City FC,Chelsea FC,Leicester City FC,Chelsea FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Manchester City FC,Aston Villa FC,Manchester City FC,Aston Villa FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Fulham FC,Manchester United FC,Manchester United FC,Fulham FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Liverpool FC,Burnley FC,Burnley FC,Liverpool FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Aston Villa FC,Newcastle United FC,Aston Villa FC,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Newcastle United FC,Leeds United FC,Leeds United FC,Newcastle United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Crystal Palace FC,West Ham United FC,West Ham United FC,Crystal Palace FC,AWAY_TEAM,2.0,3.0,REGULAR
+2020,West Bromwich Albion FC,Manchester City FC,Manchester City FC,West Bromwich Albion FC,AWAY_TEAM,0.0,5.0,REGULAR
+2020,Southampton FC,Arsenal FC,Arsenal FC,Southampton FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Burnley FC,Aston Villa FC,Burnley FC,Aston Villa FC,HOME_TEAM,3.0,2.0,REGULAR
+2020,Chelsea FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Brighton & Hove Albion FC,Fulham FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Everton FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Manchester United FC,Sheffield United FC,Sheffield United FC,Manchester United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Tottenham Hotspur FC,Liverpool FC,Liverpool FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Everton FC,Newcastle United FC,Newcastle United FC,Everton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Manchester City FC,Sheffield United FC,Manchester City FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,West Bromwich Albion FC,Fulham FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2020,Crystal Palace FC,Wolverhampton Wanderers FC,Crystal Palace FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Arsenal FC,Manchester United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Southampton FC,Aston Villa FC,Aston Villa FC,Southampton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Chelsea FC,Burnley FC,Chelsea FC,Burnley FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Leicester City FC,Leeds United FC,Leeds United FC,Leicester City FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,West Ham United FC,Liverpool FC,Liverpool FC,West Ham United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Brighton & Hove Albion FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Arsenal FC,Wolverhampton Wanderers FC,Arsenal FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Sheffield United FC,West Bromwich Albion FC,Sheffield United FC,West Bromwich Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Manchester United FC,Southampton FC,Manchester United FC,Southampton FC,HOME_TEAM,9.0,0.0,REGULAR
+2020,Newcastle United FC,Crystal Palace FC,Crystal Palace FC,Newcastle United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Fulham FC,Leicester City FC,Leicester City FC,Fulham FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Burnley FC,Manchester City FC,Manchester City FC,Burnley FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Leeds United FC,Everton FC,Everton FC,Leeds United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Aston Villa FC,West Ham United FC,West Ham United FC,Aston Villa FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Liverpool FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Liverpool FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Tottenham Hotspur FC,Chelsea FC,Chelsea FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Aston Villa FC,Arsenal FC,Aston Villa FC,Arsenal FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Newcastle United FC,Southampton FC,Newcastle United FC,Southampton FC,HOME_TEAM,3.0,2.0,REGULAR
+2020,Burnley FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Fulham FC,West Ham United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Manchester United FC,Everton FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2020,Tottenham Hotspur FC,West Bromwich Albion FC,Tottenham Hotspur FC,West Bromwich Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Leicester City FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Liverpool FC,Manchester City FC,Manchester City FC,Liverpool FC,AWAY_TEAM,1.0,4.0,REGULAR
+2020,Sheffield United FC,Chelsea FC,Chelsea FC,Sheffield United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Leeds United FC,Crystal Palace FC,Leeds United FC,Crystal Palace FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Leicester City FC,Liverpool FC,Leicester City FC,Liverpool FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Crystal Palace FC,Burnley FC,Burnley FC,Crystal Palace FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Manchester City FC,Tottenham Hotspur FC,Manchester City FC,Tottenham Hotspur FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Brighton & Hove Albion FC,Aston Villa FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Southampton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,West Bromwich Albion FC,Manchester United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Arsenal FC,Leeds United FC,Arsenal FC,Leeds United FC,HOME_TEAM,4.0,2.0,REGULAR
+2020,Everton FC,Fulham FC,Fulham FC,Everton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,West Ham United FC,Sheffield United FC,West Ham United FC,Sheffield United FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Chelsea FC,Newcastle United FC,Chelsea FC,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Burnley FC,Fulham FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Everton FC,Manchester City FC,Manchester City FC,Everton FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Wolverhampton Wanderers FC,Leeds United FC,Wolverhampton Wanderers FC,Leeds United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Southampton FC,Chelsea FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Burnley FC,West Bromwich Albion FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Liverpool FC,Everton FC,Everton FC,Liverpool FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Fulham FC,Sheffield United FC,Fulham FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,West Ham United FC,Tottenham Hotspur FC,West Ham United FC,Tottenham Hotspur FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Aston Villa FC,Leicester City FC,Leicester City FC,Aston Villa FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Arsenal FC,Manchester City FC,Manchester City FC,Arsenal FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Manchester United FC,Newcastle United FC,Manchester United FC,Newcastle United FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Brighton & Hove Albion FC,Crystal Palace FC,Crystal Palace FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Leeds United FC,Southampton FC,Leeds United FC,Southampton FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Manchester City FC,West Ham United FC,Manchester City FC,West Ham United FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,West Bromwich Albion FC,Brighton & Hove Albion FC,West Bromwich Albion FC,Brighton & Hove Albion FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Leeds United FC,Aston Villa FC,Aston Villa FC,Leeds United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Newcastle United FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Leicester City FC,Arsenal FC,Arsenal FC,Leicester City FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Crystal Palace FC,Fulham FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Tottenham Hotspur FC,Burnley FC,Tottenham Hotspur FC,Burnley FC,HOME_TEAM,4.0,0.0,REGULAR
+2020,Chelsea FC,Manchester United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Sheffield United FC,Liverpool FC,Liverpool FC,Sheffield United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Everton FC,Southampton FC,Everton FC,Southampton FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Manchester City FC,Wolverhampton Wanderers FC,Manchester City FC,Wolverhampton Wanderers FC,HOME_TEAM,4.0,1.0,REGULAR
+2020,Sheffield United FC,Aston Villa FC,Sheffield United FC,Aston Villa FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Burnley FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Crystal Palace FC,Manchester United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,West Bromwich Albion FC,Everton FC,Everton FC,West Bromwich Albion FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Fulham FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Fulham FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Liverpool FC,Chelsea FC,Chelsea FC,Liverpool FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Burnley FC,Arsenal FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Sheffield United FC,Southampton FC,Southampton FC,Sheffield United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Aston Villa FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Brighton & Hove Albion FC,Leicester City FC,Leicester City FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,West Bromwich Albion FC,Newcastle United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Liverpool FC,Fulham FC,Fulham FC,Liverpool FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Manchester City FC,Manchester United FC,Manchester United FC,Manchester City FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Tottenham Hotspur FC,Crystal Palace FC,Tottenham Hotspur FC,Crystal Palace FC,HOME_TEAM,4.0,1.0,REGULAR
+2020,Chelsea FC,Everton FC,Chelsea FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,West Ham United FC,Leeds United FC,West Ham United FC,Leeds United FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Manchester City FC,Southampton FC,Manchester City FC,Southampton FC,HOME_TEAM,5.0,2.0,REGULAR
+2020,Newcastle United FC,Aston Villa FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Leeds United FC,Chelsea FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Crystal Palace FC,West Bromwich Albion FC,Crystal Palace FC,West Bromwich Albion FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Everton FC,Burnley FC,Burnley FC,Everton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Fulham FC,Manchester City FC,Manchester City FC,Fulham FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Southampton FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Leicester City FC,Sheffield United FC,Leicester City FC,Sheffield United FC,HOME_TEAM,5.0,0.0,REGULAR
+2020,Arsenal FC,Tottenham Hotspur FC,Arsenal FC,Tottenham Hotspur FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Manchester United FC,West Ham United FC,Manchester United FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Liverpool FC,Liverpool FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Fulham FC,Leeds United FC,Leeds United FC,Fulham FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Brighton & Hove Albion FC,Newcastle United FC,Brighton & Hove Albion FC,Newcastle United FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,West Ham United FC,Arsenal FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2020,Aston Villa FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Aston Villa FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Chelsea FC,West Bromwich Albion FC,West Bromwich Albion FC,Chelsea FC,AWAY_TEAM,2.0,5.0,REGULAR
+2020,Leeds United FC,Sheffield United FC,Leeds United FC,Sheffield United FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Leicester City FC,Manchester City FC,Manchester City FC,Leicester City FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Arsenal FC,Liverpool FC,Liverpool FC,Arsenal FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Southampton FC,Burnley FC,Southampton FC,Burnley FC,HOME_TEAM,3.0,2.0,REGULAR
+2020,Newcastle United FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2020,Aston Villa FC,Fulham FC,Aston Villa FC,Fulham FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Manchester United FC,Brighton & Hove Albion FC,Manchester United FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Everton FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Wolverhampton Wanderers FC,West Ham United FC,West Ham United FC,Wolverhampton Wanderers FC,AWAY_TEAM,2.0,3.0,REGULAR
+2020,Fulham FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Fulham FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Manchester City FC,Leeds United FC,Leeds United FC,Manchester City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Liverpool FC,Aston Villa FC,Liverpool FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Crystal Palace FC,Chelsea FC,Chelsea FC,Crystal Palace FC,AWAY_TEAM,1.0,4.0,REGULAR
+2020,Burnley FC,Newcastle United FC,Newcastle United FC,Burnley FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,West Ham United FC,Leicester City FC,West Ham United FC,Leicester City FC,HOME_TEAM,3.0,2.0,REGULAR
+2020,Tottenham Hotspur FC,Manchester United FC,Manchester United FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Sheffield United FC,Arsenal FC,Arsenal FC,Sheffield United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,West Bromwich Albion FC,Southampton FC,West Bromwich Albion FC,Southampton FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Brighton & Hove Albion FC,Everton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Everton FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2020,Newcastle United FC,West Ham United FC,Newcastle United FC,West Ham United FC,HOME_TEAM,3.0,2.0,REGULAR
+2020,Wolverhampton Wanderers FC,Sheffield United FC,Wolverhampton Wanderers FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Arsenal FC,Fulham FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Manchester United FC,Burnley FC,Manchester United FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Leeds United FC,Liverpool FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Chelsea FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Tottenham Hotspur FC,Southampton FC,Tottenham Hotspur FC,Southampton FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Aston Villa FC,Manchester City FC,Manchester City FC,Aston Villa FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Leicester City FC,West Bromwich Albion FC,Leicester City FC,West Bromwich Albion FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Arsenal FC,Everton FC,Everton FC,Arsenal FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Liverpool FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,West Ham United FC,Chelsea FC,Chelsea FC,West Ham United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Sheffield United FC,Brighton & Hove Albion FC,Sheffield United FC,Brighton & Hove Albion FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Burnley FC,Burnley FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,4.0,REGULAR
+2020,Leeds United FC,Manchester United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Aston Villa FC,West Bromwich Albion FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2020,Leicester City FC,Crystal Palace FC,Leicester City FC,Crystal Palace FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Southampton FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Crystal Palace FC,Manchester City FC,Manchester City FC,Crystal Palace FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Brighton & Hove Albion FC,Leeds United FC,Brighton & Hove Albion FC,Leeds United FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Chelsea FC,Fulham FC,Chelsea FC,Fulham FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Everton FC,Aston Villa FC,Aston Villa FC,Everton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Newcastle United FC,Arsenal FC,Arsenal FC,Newcastle United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Tottenham Hotspur FC,Sheffield United FC,Tottenham Hotspur FC,Sheffield United FC,HOME_TEAM,4.0,0.0,REGULAR
+2020,West Bromwich Albion FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Burnley FC,West Ham United FC,West Ham United FC,Burnley FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Leicester City FC,Newcastle United FC,Newcastle United FC,Leicester City FC,AWAY_TEAM,2.0,4.0,REGULAR
+2020,Leeds United FC,Tottenham Hotspur FC,Leeds United FC,Tottenham Hotspur FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Sheffield United FC,Crystal Palace FC,Crystal Palace FC,Sheffield United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Manchester City FC,Chelsea FC,Chelsea FC,Manchester City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Liverpool FC,Southampton FC,Liverpool FC,Southampton FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Aston Villa FC,Manchester United FC,Manchester United FC,Aston Villa FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,West Ham United FC,Everton FC,Everton FC,West Ham United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Arsenal FC,West Bromwich Albion FC,Arsenal FC,West Bromwich Albion FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Fulham FC,Burnley FC,Burnley FC,Fulham FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Manchester United FC,Leicester City FC,Leicester City FC,Manchester United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Southampton FC,Crystal Palace FC,Southampton FC,Crystal Palace FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Chelsea FC,Arsenal FC,Arsenal FC,Chelsea FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Aston Villa FC,Everton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2020,Manchester United FC,Liverpool FC,Liverpool FC,Manchester United FC,AWAY_TEAM,2.0,4.0,REGULAR
+2020,Newcastle United FC,Manchester City FC,Manchester City FC,Newcastle United FC,AWAY_TEAM,3.0,4.0,REGULAR
+2020,Burnley FC,Leeds United FC,Leeds United FC,Burnley FC,AWAY_TEAM,0.0,4.0,REGULAR
+2020,Southampton FC,Fulham FC,Southampton FC,Fulham FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Brighton & Hove Albion FC,West Ham United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Crystal Palace FC,Aston Villa FC,Crystal Palace FC,Aston Villa FC,HOME_TEAM,3.0,2.0,REGULAR
+2020,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,West Bromwich Albion FC,Liverpool FC,Liverpool FC,West Bromwich Albion FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Everton FC,Sheffield United FC,Sheffield United FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2020,Manchester United FC,Fulham FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2020,Southampton FC,Leeds United FC,Leeds United FC,Southampton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Brighton & Hove Albion FC,Manchester City FC,Brighton & Hove Albion FC,Manchester City FC,HOME_TEAM,3.0,2.0,REGULAR
+2020,Chelsea FC,Leicester City FC,Chelsea FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Newcastle United FC,Sheffield United FC,Newcastle United FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Tottenham Hotspur FC,Aston Villa FC,Aston Villa FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,2.0,REGULAR
+2020,Everton FC,Wolverhampton Wanderers FC,Everton FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Crystal Palace FC,Arsenal FC,Arsenal FC,Crystal Palace FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,West Bromwich Albion FC,West Ham United FC,West Ham United FC,West Bromwich Albion FC,AWAY_TEAM,1.0,3.0,REGULAR
+2020,Burnley FC,Liverpool FC,Liverpool FC,Burnley FC,AWAY_TEAM,0.0,3.0,REGULAR
+2020,Fulham FC,Newcastle United FC,Newcastle United FC,Fulham FC,AWAY_TEAM,0.0,2.0,REGULAR
+2020,Aston Villa FC,Chelsea FC,Aston Villa FC,Chelsea FC,HOME_TEAM,2.0,1.0,REGULAR
+2020,Liverpool FC,Crystal Palace FC,Liverpool FC,Crystal Palace FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Manchester City FC,Everton FC,Manchester City FC,Everton FC,HOME_TEAM,5.0,0.0,REGULAR
+2020,Arsenal FC,Brighton & Hove Albion FC,Arsenal FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2020,Sheffield United FC,Burnley FC,Sheffield United FC,Burnley FC,HOME_TEAM,1.0,0.0,REGULAR
+2020,Leicester City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Leicester City FC,AWAY_TEAM,2.0,4.0,REGULAR
+2020,West Ham United FC,Southampton FC,West Ham United FC,Southampton FC,HOME_TEAM,3.0,0.0,REGULAR
+2020,Leeds United FC,West Bromwich Albion FC,Leeds United FC,West Bromwich Albion FC,HOME_TEAM,3.0,1.0,REGULAR
+2020,Wolverhampton Wanderers FC,Manchester United FC,Manchester United FC,Wolverhampton Wanderers FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Brentford FC,Arsenal FC,Brentford FC,Arsenal FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Manchester United FC,Leeds United FC,Manchester United FC,Leeds United FC,HOME_TEAM,5.0,1.0,REGULAR
+2021,Watford FC,Aston Villa FC,Watford FC,Aston Villa FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Leicester City FC,Wolverhampton Wanderers FC,Leicester City FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Everton FC,Southampton FC,Everton FC,Southampton FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Chelsea FC,Crystal Palace FC,Chelsea FC,Crystal Palace FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Burnley FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Burnley FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Norwich City FC,Liverpool FC,Liverpool FC,Norwich City FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Newcastle United FC,West Ham United FC,West Ham United FC,Newcastle United FC,AWAY_TEAM,2.0,4.0,REGULAR
+2021,Tottenham Hotspur FC,Manchester City FC,Tottenham Hotspur FC,Manchester City FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Liverpool FC,Burnley FC,Liverpool FC,Burnley FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Manchester City FC,Norwich City FC,Manchester City FC,Norwich City FC,HOME_TEAM,5.0,0.0,REGULAR
+2021,Leeds United FC,Everton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Crystal Palace FC,Brentford FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Aston Villa FC,Newcastle United FC,Aston Villa FC,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Watford FC,Brighton & Hove Albion FC,Watford FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Southampton FC,Manchester United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Arsenal FC,Chelsea FC,Chelsea FC,Arsenal FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,West Ham United FC,Leicester City FC,West Ham United FC,Leicester City FC,HOME_TEAM,4.0,1.0,REGULAR
+2021,Manchester City FC,Arsenal FC,Manchester City FC,Arsenal FC,HOME_TEAM,5.0,0.0,REGULAR
+2021,West Ham United FC,Crystal Palace FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Norwich City FC,Leicester City FC,Leicester City FC,Norwich City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Newcastle United FC,Southampton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Brighton & Hove Albion FC,Everton FC,Everton FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Aston Villa FC,Brentford FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Liverpool FC,Chelsea FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Tottenham Hotspur FC,Watford FC,Tottenham Hotspur FC,Watford FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Burnley FC,Leeds United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Wolverhampton Wanderers FC,Manchester United FC,Manchester United FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Crystal Palace FC,Tottenham Hotspur FC,Crystal Palace FC,Tottenham Hotspur FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Watford FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Watford FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Southampton FC,West Ham United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Manchester United FC,Newcastle United FC,Manchester United FC,Newcastle United FC,HOME_TEAM,4.0,1.0,REGULAR
+2021,Leicester City FC,Manchester City FC,Manchester City FC,Leicester City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Brentford FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Brentford FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Arsenal FC,Norwich City FC,Arsenal FC,Norwich City FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,Aston Villa FC,Chelsea FC,Aston Villa FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Leeds United FC,Liverpool FC,Liverpool FC,Leeds United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Everton FC,Burnley FC,Everton FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Newcastle United FC,Leeds United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Wolverhampton Wanderers FC,Brentford FC,Brentford FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Norwich City FC,Watford FC,Watford FC,Norwich City FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Manchester City FC,Southampton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Liverpool FC,Crystal Palace FC,Liverpool FC,Crystal Palace FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Burnley FC,Arsenal FC,Arsenal FC,Burnley FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Aston Villa FC,Everton FC,Aston Villa FC,Everton FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,West Ham United FC,Manchester United FC,Manchester United FC,West Ham United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Brighton & Hove Albion FC,Leicester City FC,Brighton & Hove Albion FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Tottenham Hotspur FC,Chelsea FC,Chelsea FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Manchester United FC,Aston Villa FC,Aston Villa FC,Manchester United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Chelsea FC,Manchester City FC,Manchester City FC,Chelsea FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Watford FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Leicester City FC,Burnley FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Leeds United FC,West Ham United FC,West Ham United FC,Leeds United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Everton FC,Norwich City FC,Everton FC,Norwich City FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Brentford FC,Liverpool FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2021,Southampton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Southampton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Arsenal FC,Tottenham Hotspur FC,Arsenal FC,Tottenham Hotspur FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Crystal Palace FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Manchester United FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Wolverhampton Wanderers FC,Newcastle United FC,Wolverhampton Wanderers FC,Newcastle United FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Leeds United FC,Watford FC,Leeds United FC,Watford FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,Southampton FC,Chelsea FC,Southampton FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Burnley FC,Norwich City FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Arsenal FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,West Ham United FC,Brentford FC,Brentford FC,West Ham United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Tottenham Hotspur FC,Aston Villa FC,Tottenham Hotspur FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Crystal Palace FC,Leicester City FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Liverpool FC,Manchester City FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Watford FC,Liverpool FC,Liverpool FC,Watford FC,AWAY_TEAM,0.0,5.0,REGULAR
+2021,Southampton FC,Leeds United FC,Southampton FC,Leeds United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Norwich City FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Manchester City FC,Burnley FC,Manchester City FC,Burnley FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Leicester City FC,Manchester United FC,Leicester City FC,Manchester United FC,HOME_TEAM,4.0,2.0,REGULAR
+2021,Aston Villa FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Aston Villa FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Brentford FC,Chelsea FC,Chelsea FC,Brentford FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Everton FC,West Ham United FC,West Ham United FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Newcastle United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Newcastle United FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Arsenal FC,Crystal Palace FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Arsenal FC,Aston Villa FC,Arsenal FC,Aston Villa FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Chelsea FC,Norwich City FC,Chelsea FC,Norwich City FC,HOME_TEAM,7.0,0.0,REGULAR
+2021,Southampton FC,Burnley FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Leeds United FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Everton FC,Watford FC,Watford FC,Everton FC,AWAY_TEAM,2.0,5.0,REGULAR
+2021,Crystal Palace FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Brighton & Hove Albion FC,Manchester City FC,Manchester City FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,4.0,REGULAR
+2021,West Ham United FC,Tottenham Hotspur FC,West Ham United FC,Tottenham Hotspur FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Brentford FC,Leicester City FC,Leicester City FC,Brentford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Manchester United FC,Liverpool FC,Liverpool FC,Manchester United FC,AWAY_TEAM,0.0,5.0,REGULAR
+2021,Leicester City FC,Arsenal FC,Arsenal FC,Leicester City FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Watford FC,Southampton FC,Southampton FC,Watford FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Newcastle United FC,Chelsea FC,Chelsea FC,Newcastle United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Manchester City FC,Crystal Palace FC,Crystal Palace FC,Manchester City FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Liverpool FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Burnley FC,Brentford FC,Burnley FC,Brentford FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Tottenham Hotspur FC,Manchester United FC,Manchester United FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Norwich City FC,Leeds United FC,Leeds United FC,Norwich City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Aston Villa FC,West Ham United FC,West Ham United FC,Aston Villa FC,AWAY_TEAM,1.0,4.0,REGULAR
+2021,Wolverhampton Wanderers FC,Everton FC,Wolverhampton Wanderers FC,Everton FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Southampton FC,Aston Villa FC,Southampton FC,Aston Villa FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Manchester United FC,Manchester City FC,Manchester City FC,Manchester United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Crystal Palace FC,Wolverhampton Wanderers FC,Crystal Palace FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Chelsea FC,Burnley FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Brentford FC,Norwich City FC,Norwich City FC,Brentford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Brighton & Hove Albion FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Leeds United FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Everton FC,Tottenham Hotspur FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Arsenal FC,Watford FC,Arsenal FC,Watford FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,West Ham United FC,Liverpool FC,West Ham United FC,Liverpool FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Leicester City FC,Chelsea FC,Chelsea FC,Leicester City FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Watford FC,Manchester United FC,Watford FC,Manchester United FC,HOME_TEAM,4.0,1.0,REGULAR
+2021,Norwich City FC,Southampton FC,Norwich City FC,Southampton FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Newcastle United FC,Brentford FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2021,Burnley FC,Crystal Palace FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2021,Aston Villa FC,Brighton & Hove Albion FC,Aston Villa FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Liverpool FC,Arsenal FC,Liverpool FC,Arsenal FC,HOME_TEAM,4.0,0.0,REGULAR
+2021,Manchester City FC,Everton FC,Manchester City FC,Everton FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Tottenham Hotspur FC,Leeds United FC,Tottenham Hotspur FC,Leeds United FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Arsenal FC,Newcastle United FC,Arsenal FC,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Norwich City FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Liverpool FC,Southampton FC,Liverpool FC,Southampton FC,HOME_TEAM,4.0,0.0,REGULAR
+2021,Crystal Palace FC,Aston Villa FC,Aston Villa FC,Crystal Palace FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Brighton & Hove Albion FC,Leeds United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Manchester City FC,West Ham United FC,Manchester City FC,West Ham United FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Leicester City FC,Watford FC,Leicester City FC,Watford FC,HOME_TEAM,4.0,2.0,REGULAR
+2021,Brentford FC,Everton FC,Brentford FC,Everton FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,Manchester United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Newcastle United FC,Norwich City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Leeds United FC,Crystal Palace FC,Leeds United FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Southampton FC,Leicester City FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Wolverhampton Wanderers FC,Burnley FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,West Ham United FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Watford FC,Chelsea FC,Chelsea FC,Watford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Everton FC,Liverpool FC,Liverpool FC,Everton FC,AWAY_TEAM,1.0,4.0,REGULAR
+2021,Aston Villa FC,Manchester City FC,Manchester City FC,Aston Villa FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Tottenham Hotspur FC,Brentford FC,Tottenham Hotspur FC,Brentford FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Manchester United FC,Arsenal FC,Manchester United FC,Arsenal FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,West Ham United FC,Chelsea FC,West Ham United FC,Chelsea FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Wolverhampton Wanderers FC,Liverpool FC,Liverpool FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Southampton FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Newcastle United FC,Burnley FC,Newcastle United FC,Burnley FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Watford FC,Manchester City FC,Manchester City FC,Watford FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Tottenham Hotspur FC,Norwich City FC,Tottenham Hotspur FC,Norwich City FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Manchester United FC,Crystal Palace FC,Manchester United FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Leeds United FC,Brentford FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Aston Villa FC,Leicester City FC,Aston Villa FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Everton FC,Arsenal FC,Everton FC,Arsenal FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Brentford FC,Watford FC,Brentford FC,Watford FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Manchester City FC,Wolverhampton Wanderers FC,Manchester City FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Liverpool FC,Aston Villa FC,Liverpool FC,Aston Villa FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,Leeds United FC,Chelsea FC,Leeds United FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Arsenal FC,Southampton FC,Arsenal FC,Southampton FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Norwich City FC,Manchester United FC,Manchester United FC,Norwich City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Leicester City FC,Newcastle United FC,Leicester City FC,Newcastle United FC,HOME_TEAM,4.0,0.0,REGULAR
+2021,Burnley FC,West Ham United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Crystal Palace FC,Everton FC,Crystal Palace FC,Everton FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Norwich City FC,Aston Villa FC,Aston Villa FC,Norwich City FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Manchester City FC,Leeds United FC,Manchester City FC,Leeds United FC,HOME_TEAM,7.0,0.0,REGULAR
+2021,Crystal Palace FC,Southampton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Arsenal FC,West Ham United FC,Arsenal FC,West Ham United FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Chelsea FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Liverpool FC,Newcastle United FC,Liverpool FC,Newcastle United FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Leeds United FC,Arsenal FC,Arsenal FC,Leeds United FC,AWAY_TEAM,1.0,4.0,REGULAR
+2021,Wolverhampton Wanderers FC,Chelsea FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Newcastle United FC,Manchester City FC,Manchester City FC,Newcastle United FC,AWAY_TEAM,0.0,4.0,REGULAR
+2021,Tottenham Hotspur FC,Liverpool FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,West Ham United FC,Southampton FC,Southampton FC,West Ham United FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Tottenham Hotspur FC,Crystal Palace FC,Tottenham Hotspur FC,Crystal Palace FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Norwich City FC,Arsenal FC,Arsenal FC,Norwich City FC,AWAY_TEAM,0.0,5.0,REGULAR
+2021,Manchester City FC,Leicester City FC,Manchester City FC,Leicester City FC,HOME_TEAM,6.0,3.0,REGULAR
+2021,Aston Villa FC,Chelsea FC,Chelsea FC,Aston Villa FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Brighton & Hove Albion FC,Brentford FC,Brighton & Hove Albion FC,Brentford FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Newcastle United FC,Manchester United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Crystal Palace FC,Norwich City FC,Crystal Palace FC,Norwich City FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Watford FC,West Ham United FC,West Ham United FC,Watford FC,AWAY_TEAM,1.0,4.0,REGULAR
+2021,Southampton FC,Tottenham Hotspur FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Leicester City FC,Liverpool FC,Leicester City FC,Liverpool FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Brentford FC,Manchester City FC,Manchester City FC,Brentford FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Manchester United FC,Burnley FC,Manchester United FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Arsenal FC,Manchester City FC,Manchester City FC,Arsenal FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Watford FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Watford FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Crystal Palace FC,West Ham United FC,West Ham United FC,Crystal Palace FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Leeds United FC,Burnley FC,Leeds United FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Everton FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Everton FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Brentford FC,Aston Villa FC,Brentford FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Chelsea FC,Liverpool FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Manchester United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Manchester United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Southampton FC,Brentford FC,Southampton FC,Brentford FC,HOME_TEAM,4.0,1.0,REGULAR
+2021,West Ham United FC,Norwich City FC,West Ham United FC,Norwich City FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Manchester City FC,Chelsea FC,Manchester City FC,Chelsea FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Wolverhampton Wanderers FC,Southampton FC,Wolverhampton Wanderers FC,Southampton FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Norwich City FC,Everton FC,Norwich City FC,Everton FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Newcastle United FC,Watford FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Aston Villa FC,Manchester United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,West Ham United FC,Leeds United FC,Leeds United FC,West Ham United FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Liverpool FC,Brentford FC,Liverpool FC,Brentford FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Chelsea FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Leicester City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Leicester City FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Brentford FC,Manchester United FC,Manchester United FC,Brentford FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Watford FC,Norwich City FC,Norwich City FC,Watford FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Everton FC,Aston Villa FC,Aston Villa FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Manchester United FC,West Ham United FC,Manchester United FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Leeds United FC,Newcastle United FC,Newcastle United FC,Leeds United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Brentford FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Brentford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Southampton FC,Manchester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Leicester City FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Crystal Palace FC,Liverpool FC,Liverpool FC,Crystal Palace FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Arsenal FC,Burnley FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Chelsea FC,Tottenham Hotspur FC,Chelsea FC,Tottenham Hotspur FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Burnley FC,Watford FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Newcastle United FC,Everton FC,Newcastle United FC,Everton FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,West Ham United FC,Watford FC,West Ham United FC,Watford FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Burnley FC,Manchester United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Manchester City FC,Brentford FC,Manchester City FC,Brentford FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Tottenham Hotspur FC,Southampton FC,Southampton FC,Tottenham Hotspur FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Norwich City FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Aston Villa FC,Leeds United FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2021,Liverpool FC,Leicester City FC,Liverpool FC,Leicester City FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Wolverhampton Wanderers FC,Arsenal FC,Arsenal FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Manchester United FC,Southampton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Watford FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Watford FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Everton FC,Leeds United FC,Everton FC,Leeds United FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Brentford FC,Crystal Palace FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Norwich City FC,Manchester City FC,Manchester City FC,Norwich City FC,AWAY_TEAM,0.0,4.0,REGULAR
+2021,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Newcastle United FC,Aston Villa FC,Newcastle United FC,Aston Villa FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Burnley FC,Liverpool FC,Liverpool FC,Burnley FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Leicester City FC,West Ham United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Manchester United FC,Brighton & Hove Albion FC,Manchester United FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,West Ham United FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Southampton FC,Everton FC,Southampton FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Liverpool FC,Norwich City FC,Liverpool FC,Norwich City FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Crystal Palace FC,Chelsea FC,Chelsea FC,Crystal Palace FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Brighton & Hove Albion FC,Burnley FC,Burnley FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Aston Villa FC,Watford FC,Watford FC,Aston Villa FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Arsenal FC,Brentford FC,Arsenal FC,Brentford FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Manchester City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Manchester City FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Leeds United FC,Manchester United FC,Manchester United FC,Leeds United FC,AWAY_TEAM,2.0,4.0,REGULAR
+2021,Wolverhampton Wanderers FC,Leicester City FC,Wolverhampton Wanderers FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Watford FC,Crystal Palace FC,Crystal Palace FC,Watford FC,AWAY_TEAM,1.0,4.0,REGULAR
+2021,Burnley FC,Tottenham Hotspur FC,Burnley FC,Tottenham Hotspur FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Liverpool FC,Leeds United FC,Liverpool FC,Leeds United FC,HOME_TEAM,6.0,0.0,REGULAR
+2021,Arsenal FC,Wolverhampton Wanderers FC,Arsenal FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Southampton FC,Norwich City FC,Southampton FC,Norwich City FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Leeds United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Leeds United FC,AWAY_TEAM,0.0,4.0,REGULAR
+2021,Manchester United FC,Watford FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Crystal Palace FC,Burnley FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Brentford FC,Newcastle United FC,Newcastle United FC,Brentford FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Brighton & Hove Albion FC,Aston Villa FC,Aston Villa FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Everton FC,Manchester City FC,Manchester City FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,West Ham United FC,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Burnley FC,Leicester City FC,Leicester City FC,Burnley FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Leicester City FC,Leeds United FC,Leicester City FC,Leeds United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Wolverhampton Wanderers FC,Crystal Palace FC,Crystal Palace FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Norwich City FC,Brentford FC,Brentford FC,Norwich City FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Newcastle United FC,Brighton & Hove Albion FC,Newcastle United FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Burnley FC,Chelsea FC,Chelsea FC,Burnley FC,AWAY_TEAM,0.0,4.0,REGULAR
+2021,Aston Villa FC,Southampton FC,Aston Villa FC,Southampton FC,HOME_TEAM,4.0,0.0,REGULAR
+2021,Liverpool FC,West Ham United FC,Liverpool FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Watford FC,Arsenal FC,Arsenal FC,Watford FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Manchester City FC,Manchester United FC,Manchester City FC,Manchester United FC,HOME_TEAM,4.0,1.0,REGULAR
+2021,Tottenham Hotspur FC,Everton FC,Tottenham Hotspur FC,Everton FC,HOME_TEAM,5.0,0.0,REGULAR
+2021,Wolverhampton Wanderers FC,Watford FC,Wolverhampton Wanderers FC,Watford FC,HOME_TEAM,4.0,0.0,REGULAR
+2021,Norwich City FC,Chelsea FC,Chelsea FC,Norwich City FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Southampton FC,Newcastle United FC,Newcastle United FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Leeds United FC,Aston Villa FC,Aston Villa FC,Leeds United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Brighton & Hove Albion FC,Liverpool FC,Liverpool FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Brentford FC,Burnley FC,Brentford FC,Burnley FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Manchester United FC,Tottenham Hotspur FC,Manchester United FC,Tottenham Hotspur FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,West Ham United FC,Aston Villa FC,West Ham United FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Southampton FC,Watford FC,Watford FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Leeds United FC,Norwich City FC,Leeds United FC,Norwich City FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Everton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Chelsea FC,Newcastle United FC,Chelsea FC,Newcastle United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Arsenal FC,Leicester City FC,Arsenal FC,Leicester City FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Crystal Palace FC,Manchester City FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Arsenal FC,Liverpool FC,Liverpool FC,Arsenal FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Everton FC,Newcastle United FC,Everton FC,Newcastle United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Wolverhampton Wanderers FC,Leeds United FC,Leeds United FC,Wolverhampton Wanderers FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Aston Villa FC,Arsenal FC,Arsenal FC,Aston Villa FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Leicester City FC,Brentford FC,Leicester City FC,Brentford FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Tottenham Hotspur FC,West Ham United FC,Tottenham Hotspur FC,West Ham United FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Liverpool FC,Watford FC,Liverpool FC,Watford FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Norwich City FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Burnley FC,Manchester City FC,Manchester City FC,Burnley FC,AWAY_TEAM,0.0,2.0,REGULAR
+2021,Chelsea FC,Brentford FC,Brentford FC,Chelsea FC,AWAY_TEAM,1.0,4.0,REGULAR
+2021,Leeds United FC,Southampton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Wolverhampton Wanderers FC,Aston Villa FC,Wolverhampton Wanderers FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Manchester United FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,West Ham United FC,Everton FC,West Ham United FC,Everton FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Tottenham Hotspur FC,Newcastle United FC,Tottenham Hotspur FC,Newcastle United FC,HOME_TEAM,5.0,1.0,REGULAR
+2021,Crystal Palace FC,Arsenal FC,Crystal Palace FC,Arsenal FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Burnley FC,Everton FC,Burnley FC,Everton FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Newcastle United FC,Wolverhampton Wanderers FC,Newcastle United FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Everton FC,Manchester United FC,Everton FC,Manchester United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Arsenal FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Arsenal FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Southampton FC,Chelsea FC,Chelsea FC,Southampton FC,AWAY_TEAM,0.0,6.0,REGULAR
+2021,Watford FC,Leeds United FC,Leeds United FC,Watford FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Aston Villa FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Aston Villa FC,AWAY_TEAM,0.0,4.0,REGULAR
+2021,Brentford FC,West Ham United FC,Brentford FC,West Ham United FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Leicester City FC,Crystal Palace FC,Leicester City FC,Crystal Palace FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Norwich City FC,Burnley FC,Norwich City FC,Burnley FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Manchester City FC,Liverpool FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Tottenham Hotspur FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Manchester United FC,Norwich City FC,Manchester United FC,Norwich City FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Southampton FC,Arsenal FC,Southampton FC,Arsenal FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Watford FC,Brentford FC,Brentford FC,Watford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Newcastle United FC,Leicester City FC,Newcastle United FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,West Ham United FC,Burnley FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Liverpool FC,Manchester United FC,Liverpool FC,Manchester United FC,HOME_TEAM,4.0,0.0,REGULAR
+2021,Everton FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Newcastle United FC,Crystal Palace FC,Newcastle United FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,Arsenal FC,Arsenal FC,Chelsea FC,AWAY_TEAM,2.0,4.0,REGULAR
+2021,Manchester City FC,Brighton & Hove Albion FC,Manchester City FC,Brighton & Hove Albion FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Burnley FC,Southampton FC,Burnley FC,Southampton FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Arsenal FC,Manchester United FC,Arsenal FC,Manchester United FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Leicester City FC,Aston Villa FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Manchester City FC,Watford FC,Manchester City FC,Watford FC,HOME_TEAM,5.0,1.0,REGULAR
+2021,Norwich City FC,Newcastle United FC,Newcastle United FC,Norwich City FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Brentford FC,Tottenham Hotspur FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Southampton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Burnley FC,Wolverhampton Wanderers FC,Burnley FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,West Ham United FC,Chelsea FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Liverpool FC,Everton FC,Liverpool FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Crystal Palace FC,Leeds United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Manchester United FC,Chelsea FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Newcastle United FC,Liverpool FC,Liverpool FC,Newcastle United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2021,Aston Villa FC,Norwich City FC,Aston Villa FC,Norwich City FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Southampton FC,Crystal Palace FC,Crystal Palace FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Watford FC,Burnley FC,Burnley FC,Watford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Leeds United FC,Manchester City FC,Manchester City FC,Leeds United FC,AWAY_TEAM,0.0,4.0,REGULAR
+2021,Everton FC,Chelsea FC,Everton FC,Chelsea FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Tottenham Hotspur FC,Leicester City FC,Tottenham Hotspur FC,Leicester City FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,West Ham United FC,Arsenal FC,Arsenal FC,West Ham United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Manchester United FC,Brentford FC,Manchester United FC,Brentford FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Brentford FC,Southampton FC,Brentford FC,Southampton FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Burnley FC,Aston Villa FC,Aston Villa FC,Burnley FC,AWAY_TEAM,1.0,3.0,REGULAR
+2021,Chelsea FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Crystal Palace FC,Watford FC,Crystal Palace FC,Watford FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Brighton & Hove Albion FC,Manchester United FC,Brighton & Hove Albion FC,Manchester United FC,HOME_TEAM,4.0,0.0,REGULAR
+2021,Liverpool FC,Tottenham Hotspur FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Arsenal FC,Leeds United FC,Arsenal FC,Leeds United FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Leicester City FC,Everton FC,Everton FC,Leicester City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Norwich City FC,West Ham United FC,West Ham United FC,Norwich City FC,AWAY_TEAM,0.0,4.0,REGULAR
+2021,Manchester City FC,Newcastle United FC,Manchester City FC,Newcastle United FC,HOME_TEAM,5.0,0.0,REGULAR
+2021,Aston Villa FC,Liverpool FC,Liverpool FC,Aston Villa FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Leeds United FC,Chelsea FC,Chelsea FC,Leeds United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2021,Watford FC,Everton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2021,Leicester City FC,Norwich City FC,Leicester City FC,Norwich City FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Wolverhampton Wanderers FC,Manchester City FC,Manchester City FC,Wolverhampton Wanderers FC,AWAY_TEAM,1.0,5.0,REGULAR
+2021,Tottenham Hotspur FC,Arsenal FC,Tottenham Hotspur FC,Arsenal FC,HOME_TEAM,3.0,0.0,REGULAR
+2021,Tottenham Hotspur FC,Burnley FC,Tottenham Hotspur FC,Burnley FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Aston Villa FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Leeds United FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Watford FC,Leicester City FC,Leicester City FC,Watford FC,AWAY_TEAM,1.0,5.0,REGULAR
+2021,West Ham United FC,Manchester City FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2021,Wolverhampton Wanderers FC,Norwich City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Everton FC,Brentford FC,Brentford FC,Everton FC,AWAY_TEAM,2.0,3.0,REGULAR
+2021,Newcastle United FC,Arsenal FC,Newcastle United FC,Arsenal FC,HOME_TEAM,2.0,0.0,REGULAR
+2021,Southampton FC,Liverpool FC,Liverpool FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Everton FC,Crystal Palace FC,Everton FC,Crystal Palace FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Aston Villa FC,Burnley FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Chelsea FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2021,Norwich City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Norwich City FC,AWAY_TEAM,0.0,5.0,REGULAR
+2021,Manchester City FC,Aston Villa FC,Manchester City FC,Aston Villa FC,HOME_TEAM,3.0,2.0,REGULAR
+2021,Liverpool FC,Wolverhampton Wanderers FC,Liverpool FC,Wolverhampton Wanderers FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Leicester City FC,Southampton FC,Leicester City FC,Southampton FC,HOME_TEAM,4.0,1.0,REGULAR
+2021,Crystal Palace FC,Manchester United FC,Crystal Palace FC,Manchester United FC,HOME_TEAM,1.0,0.0,REGULAR
+2021,Chelsea FC,Watford FC,Chelsea FC,Watford FC,HOME_TEAM,2.0,1.0,REGULAR
+2021,Burnley FC,Newcastle United FC,Newcastle United FC,Burnley FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Brighton & Hove Albion FC,West Ham United FC,Brighton & Hove Albion FC,West Ham United FC,HOME_TEAM,3.0,1.0,REGULAR
+2021,Brentford FC,Leeds United FC,Leeds United FC,Brentford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2021,Arsenal FC,Everton FC,Arsenal FC,Everton FC,HOME_TEAM,5.0,1.0,REGULAR
+2022,Crystal Palace FC,Arsenal FC,Arsenal FC,Crystal Palace FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Fulham FC,Liverpool FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Tottenham Hotspur FC,Southampton FC,Tottenham Hotspur FC,Southampton FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Newcastle United FC,Nottingham Forest FC,Newcastle United FC,Nottingham Forest FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Leeds United FC,Wolverhampton Wanderers FC,Leeds United FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,AFC Bournemouth,Aston Villa FC,AFC Bournemouth,Aston Villa FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Everton FC,Chelsea FC,Chelsea FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Manchester United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Manchester United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Leicester City FC,Brentford FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,West Ham United FC,Manchester City FC,Manchester City FC,West Ham United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Aston Villa FC,Everton FC,Aston Villa FC,Everton FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Wolverhampton Wanderers FC,Fulham FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Southampton FC,Leeds United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Manchester City FC,AFC Bournemouth,Manchester City FC,AFC Bournemouth,HOME_TEAM,4.0,0.0,REGULAR
+2022,Brighton & Hove Albion FC,Newcastle United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Arsenal FC,Leicester City FC,Arsenal FC,Leicester City FC,HOME_TEAM,4.0,2.0,REGULAR
+2022,Brentford FC,Manchester United FC,Brentford FC,Manchester United FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Nottingham Forest FC,West Ham United FC,Nottingham Forest FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Chelsea FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Liverpool FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Leicester City FC,Southampton FC,Southampton FC,Leicester City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Fulham FC,Brentford FC,Fulham FC,Brentford FC,HOME_TEAM,3.0,2.0,REGULAR
+2022,Everton FC,Nottingham Forest FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Crystal Palace FC,Aston Villa FC,Crystal Palace FC,Aston Villa FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,AFC Bournemouth,Arsenal FC,Arsenal FC,AFC Bournemouth,AWAY_TEAM,0.0,3.0,REGULAR
+2022,West Ham United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,West Ham United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Leeds United FC,Chelsea FC,Leeds United FC,Chelsea FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Newcastle United FC,Manchester City FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2022,Manchester United FC,Liverpool FC,Manchester United FC,Liverpool FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Southampton FC,Manchester United FC,Manchester United FC,Southampton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Manchester City FC,Crystal Palace FC,Manchester City FC,Crystal Palace FC,HOME_TEAM,4.0,2.0,REGULAR
+2022,Liverpool FC,AFC Bournemouth,Liverpool FC,AFC Bournemouth,HOME_TEAM,9.0,0.0,REGULAR
+2022,Chelsea FC,Leicester City FC,Chelsea FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,Leeds United FC,Brighton & Hove Albion FC,Leeds United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Brentford FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Arsenal FC,Fulham FC,Arsenal FC,Fulham FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Wolverhampton Wanderers FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Aston Villa FC,West Ham United FC,West Ham United FC,Aston Villa FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Nottingham Forest FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Nottingham Forest FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Crystal Palace FC,Brentford FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Fulham FC,Brighton & Hove Albion FC,Fulham FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Southampton FC,Chelsea FC,Southampton FC,Chelsea FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Leeds United FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Manchester City FC,Nottingham Forest FC,Manchester City FC,Nottingham Forest FC,HOME_TEAM,6.0,0.0,REGULAR
+2022,AFC Bournemouth,Wolverhampton Wanderers FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Arsenal FC,Aston Villa FC,Arsenal FC,Aston Villa FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,West Ham United FC,Tottenham Hotspur FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Liverpool FC,Newcastle United FC,Liverpool FC,Newcastle United FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Leicester City FC,Manchester United FC,Manchester United FC,Leicester City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Everton FC,Liverpool FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Southampton FC,Wolverhampton Wanderers FC,Southampton FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,Fulham FC,Tottenham Hotspur FC,Fulham FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Nottingham Forest FC,AFC Bournemouth,AFC Bournemouth,Nottingham Forest FC,AWAY_TEAM,2.0,3.0,REGULAR
+2022,Newcastle United FC,Crystal Palace FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Chelsea FC,West Ham United FC,Chelsea FC,West Ham United FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Brentford FC,Leeds United FC,Brentford FC,Leeds United FC,HOME_TEAM,5.0,2.0,REGULAR
+2022,Aston Villa FC,Manchester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,Leicester City FC,Brighton & Hove Albion FC,Leicester City FC,HOME_TEAM,5.0,2.0,REGULAR
+2022,Manchester United FC,Arsenal FC,Manchester United FC,Arsenal FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Nottingham Forest FC,Fulham FC,Fulham FC,Nottingham Forest FC,AWAY_TEAM,2.0,3.0,REGULAR
+2022,Aston Villa FC,Southampton FC,Aston Villa FC,Southampton FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Manchester City FC,Manchester City FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Newcastle United FC,AFC Bournemouth,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Tottenham Hotspur FC,Leicester City FC,Tottenham Hotspur FC,Leicester City FC,HOME_TEAM,6.0,2.0,REGULAR
+2022,Brentford FC,Arsenal FC,Arsenal FC,Brentford FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Everton FC,West Ham United FC,Everton FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Arsenal FC,Tottenham Hotspur FC,Arsenal FC,Tottenham Hotspur FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Southampton FC,Everton FC,Everton FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Liverpool FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2022,Fulham FC,Newcastle United FC,Newcastle United FC,Fulham FC,AWAY_TEAM,1.0,4.0,REGULAR
+2022,Crystal Palace FC,Chelsea FC,Chelsea FC,Crystal Palace FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,AFC Bournemouth,Brentford FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,West Ham United FC,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Manchester City FC,Manchester United FC,Manchester City FC,Manchester United FC,HOME_TEAM,6.0,3.0,REGULAR
+2022,Leeds United FC,Aston Villa FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Leicester City FC,Nottingham Forest FC,Leicester City FC,Nottingham Forest FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Newcastle United FC,Brentford FC,Newcastle United FC,Brentford FC,HOME_TEAM,5.0,1.0,REGULAR
+2022,Manchester City FC,Southampton FC,Manchester City FC,Southampton FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Chelsea FC,Wolverhampton Wanderers FC,Chelsea FC,Wolverhampton Wanderers FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,AFC Bournemouth,Leicester City FC,AFC Bournemouth,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,West Ham United FC,Fulham FC,West Ham United FC,Fulham FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Crystal Palace FC,Leeds United FC,Crystal Palace FC,Leeds United FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Arsenal FC,Liverpool FC,Arsenal FC,Liverpool FC,HOME_TEAM,3.0,2.0,REGULAR
+2022,Everton FC,Manchester United FC,Manchester United FC,Everton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Nottingham Forest FC,Aston Villa FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Brentford FC,Brighton & Hove Albion FC,Brentford FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Leicester City FC,Crystal Palace FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Nottingham Forest FC,Wolverhampton Wanderers FC,Nottingham Forest FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Fulham FC,AFC Bournemouth,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Tottenham Hotspur FC,Everton FC,Tottenham Hotspur FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Southampton FC,West Ham United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Manchester United FC,Newcastle United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Leeds United FC,Arsenal FC,Arsenal FC,Leeds United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Aston Villa FC,Chelsea FC,Chelsea FC,Aston Villa FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Liverpool FC,Manchester City FC,Liverpool FC,Manchester City FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Brighton & Hove Albion FC,Nottingham Forest FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Crystal Palace FC,Wolverhampton Wanderers FC,Crystal Palace FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Liverpool FC,West Ham United FC,Liverpool FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Newcastle United FC,Everton FC,Newcastle United FC,Everton FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Brentford FC,Chelsea FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,AFC Bournemouth,Southampton FC,Southampton FC,AFC Bournemouth,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Manchester United FC,Tottenham Hotspur FC,Manchester United FC,Tottenham Hotspur FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Fulham FC,Aston Villa FC,Fulham FC,Aston Villa FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Leicester City FC,Leeds United FC,Leicester City FC,Leeds United FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Nottingham Forest FC,Liverpool FC,Nottingham Forest FC,Liverpool FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Manchester City FC,Brighton & Hove Albion FC,Manchester City FC,Brighton & Hove Albion FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Everton FC,Crystal Palace FC,Everton FC,Crystal Palace FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Chelsea FC,Manchester United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Southampton FC,Arsenal FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Leeds United FC,Fulham FC,Fulham FC,Leeds United FC,AWAY_TEAM,2.0,3.0,REGULAR
+2022,Aston Villa FC,Brentford FC,Aston Villa FC,Brentford FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Leicester City FC,Leicester City FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,4.0,REGULAR
+2022,Tottenham Hotspur FC,Newcastle United FC,Newcastle United FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,West Ham United FC,AFC Bournemouth,West Ham United FC,AFC Bournemouth,HOME_TEAM,2.0,0.0,REGULAR
+2022,Leicester City FC,Manchester City FC,Manchester City FC,Leicester City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Newcastle United FC,Aston Villa FC,Newcastle United FC,Aston Villa FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Crystal Palace FC,Southampton FC,Crystal Palace FC,Southampton FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Brighton & Hove Albion FC,Chelsea FC,Brighton & Hove Albion FC,Chelsea FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Brentford FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,AFC Bournemouth,Tottenham Hotspur FC,Tottenham Hotspur FC,AFC Bournemouth,AWAY_TEAM,2.0,3.0,REGULAR
+2022,Fulham FC,Everton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Liverpool FC,Leeds United FC,Leeds United FC,Liverpool FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Arsenal FC,Nottingham Forest FC,Arsenal FC,Nottingham Forest FC,HOME_TEAM,5.0,0.0,REGULAR
+2022,Manchester United FC,West Ham United FC,Manchester United FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,AWAY_TEAM,2.0,3.0,REGULAR
+2022,Nottingham Forest FC,Brentford FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Manchester City FC,Fulham FC,Manchester City FC,Fulham FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Leeds United FC,AFC Bournemouth,Leeds United FC,AFC Bournemouth,HOME_TEAM,4.0,3.0,REGULAR
+2022,Everton FC,Leicester City FC,Leicester City FC,Everton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Chelsea FC,Arsenal FC,Arsenal FC,Chelsea FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,West Ham United FC,Crystal Palace FC,Crystal Palace FC,West Ham United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Southampton FC,Newcastle United FC,Newcastle United FC,Southampton FC,AWAY_TEAM,1.0,4.0,REGULAR
+2022,Aston Villa FC,Manchester United FC,Aston Villa FC,Manchester United FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Tottenham Hotspur FC,Liverpool FC,Liverpool FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Manchester City FC,Brentford FC,Brentford FC,Manchester City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,West Ham United FC,Leicester City FC,Leicester City FC,West Ham United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Tottenham Hotspur FC,Leeds United FC,Tottenham Hotspur FC,Leeds United FC,HOME_TEAM,4.0,3.0,REGULAR
+2022,Nottingham Forest FC,Crystal Palace FC,Nottingham Forest FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Liverpool FC,Southampton FC,Liverpool FC,Southampton FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,AFC Bournemouth,Everton FC,AFC Bournemouth,Everton FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Newcastle United FC,Chelsea FC,Newcastle United FC,Chelsea FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Arsenal FC,Arsenal FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Brighton & Hove Albion FC,Aston Villa FC,Aston Villa FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Fulham FC,Manchester United FC,Manchester United FC,Fulham FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Brentford FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Southampton FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Southampton FC,AWAY_TEAM,1.0,3.0,REGULAR
+2022,Leicester City FC,Newcastle United FC,Newcastle United FC,Leicester City FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Everton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Everton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Crystal Palace FC,Fulham FC,Fulham FC,Crystal Palace FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Aston Villa FC,Liverpool FC,Liverpool FC,Aston Villa FC,AWAY_TEAM,1.0,3.0,REGULAR
+2022,Arsenal FC,West Ham United FC,Arsenal FC,West Ham United FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Chelsea FC,AFC Bournemouth,Chelsea FC,AFC Bournemouth,HOME_TEAM,2.0,0.0,REGULAR
+2022,Manchester United FC,Nottingham Forest FC,Manchester United FC,Nottingham Forest FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Leeds United FC,Manchester City FC,Manchester City FC,Leeds United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2022,West Ham United FC,Brentford FC,Brentford FC,West Ham United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Liverpool FC,Leicester City FC,Liverpool FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Wolverhampton Wanderers FC,Manchester United FC,Manchester United FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Newcastle United FC,Leeds United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Manchester City FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Fulham FC,Southampton FC,Fulham FC,Southampton FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,AFC Bournemouth,Crystal Palace FC,Crystal Palace FC,AFC Bournemouth,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Brighton & Hove Albion FC,Arsenal FC,Arsenal FC,Brighton & Hove Albion FC,AWAY_TEAM,2.0,4.0,REGULAR
+2022,Tottenham Hotspur FC,Aston Villa FC,Aston Villa FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Nottingham Forest FC,Chelsea FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Brentford FC,Liverpool FC,Brentford FC,Liverpool FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Leicester City FC,Fulham FC,Fulham FC,Leicester City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Everton FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Everton FC,AWAY_TEAM,1.0,4.0,REGULAR
+2022,Arsenal FC,Newcastle United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Manchester United FC,AFC Bournemouth,Manchester United FC,AFC Bournemouth,HOME_TEAM,3.0,0.0,REGULAR
+2022,Southampton FC,Nottingham Forest FC,Nottingham Forest FC,Southampton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Leeds United FC,West Ham United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Crystal Palace FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Crystal Palace FC,AWAY_TEAM,0.0,4.0,REGULAR
+2022,Aston Villa FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Chelsea FC,Manchester City FC,Manchester City FC,Chelsea FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Fulham FC,Chelsea FC,Fulham FC,Chelsea FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Aston Villa FC,Leeds United FC,Aston Villa FC,Leeds United FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Manchester United FC,Manchester City FC,Manchester United FC,Manchester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,West Ham United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Nottingham Forest FC,Leicester City FC,Nottingham Forest FC,Leicester City FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Everton FC,Southampton FC,Southampton FC,Everton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Brighton & Hove Albion FC,Liverpool FC,Brighton & Hove Albion FC,Liverpool FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Brentford FC,AFC Bournemouth,Brentford FC,AFC Bournemouth,HOME_TEAM,2.0,0.0,REGULAR
+2022,Newcastle United FC,Fulham FC,Newcastle United FC,Fulham FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Chelsea FC,Crystal Palace FC,Chelsea FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,Arsenal FC,Arsenal FC,Tottenham Hotspur FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Crystal Palace FC,Manchester United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Manchester City FC,Tottenham Hotspur FC,Manchester City FC,Tottenham Hotspur FC,HOME_TEAM,4.0,2.0,REGULAR
+2022,Liverpool FC,Chelsea FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,West Ham United FC,Everton FC,West Ham United FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Southampton FC,Aston Villa FC,Aston Villa FC,Southampton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Leicester City FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,AFC Bournemouth,Nottingham Forest FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Crystal Palace FC,Newcastle United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Manchester City FC,Wolverhampton Wanderers FC,Manchester City FC,Wolverhampton Wanderers FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Leeds United FC,Brentford FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Arsenal FC,Manchester United FC,Arsenal FC,Manchester United FC,HOME_TEAM,3.0,2.0,REGULAR
+2022,Fulham FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Fulham FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Chelsea FC,Fulham FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Everton FC,Arsenal FC,Everton FC,Arsenal FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Liverpool FC,Wolverhampton Wanderers FC,Liverpool FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Manchester United FC,Crystal Palace FC,Manchester United FC,Crystal Palace FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,AFC Bournemouth,Brighton & Hove Albion FC,AFC Bournemouth,HOME_TEAM,1.0,0.0,REGULAR
+2022,Brentford FC,Southampton FC,Brentford FC,Southampton FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Aston Villa FC,Leicester City FC,Leicester City FC,Aston Villa FC,AWAY_TEAM,2.0,4.0,REGULAR
+2022,Newcastle United FC,West Ham United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Nottingham Forest FC,Leeds United FC,Nottingham Forest FC,Leeds United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,Manchester City FC,Tottenham Hotspur FC,Manchester City FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Manchester United FC,Leeds United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,West Ham United FC,Chelsea FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Southampton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Southampton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Leicester City FC,Tottenham Hotspur FC,Leicester City FC,Tottenham Hotspur FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Fulham FC,Nottingham Forest FC,Fulham FC,Nottingham Forest FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Crystal Palace FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Arsenal FC,Brentford FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,AFC Bournemouth,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Leeds United FC,Manchester United FC,Manchester United FC,Leeds United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Manchester City FC,Aston Villa FC,Manchester City FC,Aston Villa FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Liverpool FC,Everton FC,Liverpool FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Arsenal FC,Manchester City FC,Manchester City FC,Arsenal FC,AWAY_TEAM,1.0,3.0,REGULAR
+2022,Aston Villa FC,Arsenal FC,Arsenal FC,Aston Villa FC,AWAY_TEAM,2.0,4.0,REGULAR
+2022,Wolverhampton Wanderers FC,AFC Bournemouth,AFC Bournemouth,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Nottingham Forest FC,Manchester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Everton FC,Leeds United FC,Everton FC,Leeds United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Chelsea FC,Southampton FC,Southampton FC,Chelsea FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,Fulham FC,Fulham FC,Brighton & Hove Albion FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Brentford FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Newcastle United FC,Liverpool FC,Liverpool FC,Newcastle United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Manchester United FC,Leicester City FC,Manchester United FC,Leicester City FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,West Ham United FC,Tottenham Hotspur FC,West Ham United FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Fulham FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,West Ham United FC,Nottingham Forest FC,West Ham United FC,Nottingham Forest FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Leicester City FC,Arsenal FC,Arsenal FC,Leicester City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Leeds United FC,Southampton FC,Leeds United FC,Southampton FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Everton FC,Aston Villa FC,Aston Villa FC,Everton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,AFC Bournemouth,Manchester City FC,Manchester City FC,AFC Bournemouth,AWAY_TEAM,1.0,4.0,REGULAR
+2022,Crystal Palace FC,Liverpool FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,Chelsea FC,Tottenham Hotspur FC,Chelsea FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Arsenal FC,Everton FC,Arsenal FC,Everton FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Liverpool FC,Wolverhampton Wanderers FC,Liverpool FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Manchester City FC,Newcastle United FC,Manchester City FC,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Chelsea FC,Leeds United FC,Chelsea FC,Leeds United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Brighton & Hove Albion FC,West Ham United FC,Brighton & Hove Albion FC,West Ham United FC,HOME_TEAM,4.0,0.0,REGULAR
+2022,Aston Villa FC,Crystal Palace FC,Aston Villa FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Arsenal FC,AFC Bournemouth,Arsenal FC,AFC Bournemouth,HOME_TEAM,3.0,2.0,REGULAR
+2022,Southampton FC,Leicester City FC,Southampton FC,Leicester City FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Nottingham Forest FC,Everton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Liverpool FC,Manchester United FC,Liverpool FC,Manchester United FC,HOME_TEAM,7.0,0.0,REGULAR
+2022,Brentford FC,Fulham FC,Brentford FC,Fulham FC,HOME_TEAM,3.0,2.0,REGULAR
+2022,AFC Bournemouth,Liverpool FC,AFC Bournemouth,Liverpool FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,Nottingham Forest FC,Tottenham Hotspur FC,Nottingham Forest FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Leicester City FC,Chelsea FC,Chelsea FC,Leicester City FC,AWAY_TEAM,1.0,3.0,REGULAR
+2022,Leeds United FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Everton FC,Brentford FC,Everton FC,Brentford FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Crystal Palace FC,Manchester City FC,Manchester City FC,Crystal Palace FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,West Ham United FC,Aston Villa FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Manchester United FC,Southampton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Fulham FC,Arsenal FC,Arsenal FC,Fulham FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Newcastle United FC,Wolverhampton Wanderers FC,Newcastle United FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,Crystal Palace FC,Brighton & Hove Albion FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Southampton FC,Brentford FC,Brentford FC,Southampton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Nottingham Forest FC,Newcastle United FC,Newcastle United FC,Nottingham Forest FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Wolverhampton Wanderers FC,Leeds United FC,Leeds United FC,Wolverhampton Wanderers FC,AWAY_TEAM,2.0,4.0,REGULAR
+2022,Southampton FC,Tottenham Hotspur FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2022,Brentford FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Aston Villa FC,AFC Bournemouth,Aston Villa FC,AFC Bournemouth,HOME_TEAM,3.0,0.0,REGULAR
+2022,Chelsea FC,Everton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Arsenal FC,Crystal Palace FC,Arsenal FC,Crystal Palace FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Manchester City FC,Liverpool FC,Manchester City FC,Liverpool FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Nottingham Forest FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Crystal Palace FC,Leicester City FC,Crystal Palace FC,Leicester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,Brentford FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2022,AFC Bournemouth,Fulham FC,AFC Bournemouth,Fulham FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Arsenal FC,Leeds United FC,Arsenal FC,Leeds United FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Chelsea FC,Aston Villa FC,Aston Villa FC,Chelsea FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,West Ham United FC,Southampton FC,West Ham United FC,Southampton FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Newcastle United FC,Manchester United FC,Newcastle United FC,Manchester United FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Everton FC,Tottenham Hotspur FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Leicester City FC,Aston Villa FC,Aston Villa FC,Leicester City FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Leeds United FC,Nottingham Forest FC,Leeds United FC,Nottingham Forest FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,AFC Bournemouth,Brighton & Hove Albion FC,Brighton & Hove Albion FC,AFC Bournemouth,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Chelsea FC,Liverpool FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,West Ham United FC,Newcastle United FC,Newcastle United FC,West Ham United FC,AWAY_TEAM,1.0,5.0,REGULAR
+2022,Manchester United FC,Brentford FC,Manchester United FC,Brentford FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Manchester United FC,Everton FC,Manchester United FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Chelsea FC,Wolverhampton Wanderers FC,Chelsea FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Leicester City FC,AFC Bournemouth,AFC Bournemouth,Leicester City FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Fulham FC,West Ham United FC,West Ham United FC,Fulham FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Brentford FC,Newcastle United FC,Newcastle United FC,Brentford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Aston Villa FC,Nottingham Forest FC,Aston Villa FC,Nottingham Forest FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Southampton FC,Manchester City FC,Manchester City FC,Southampton FC,AWAY_TEAM,1.0,4.0,REGULAR
+2022,Leeds United FC,Crystal Palace FC,Crystal Palace FC,Leeds United FC,AWAY_TEAM,1.0,5.0,REGULAR
+2022,Liverpool FC,Arsenal FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Aston Villa FC,Newcastle United FC,Aston Villa FC,Newcastle United FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Brentford FC,Wolverhampton Wanderers FC,Brentford FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Southampton FC,Crystal Palace FC,Crystal Palace FC,Southampton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Everton FC,Fulham FC,Fulham FC,Everton FC,AWAY_TEAM,1.0,3.0,REGULAR
+2022,Chelsea FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Chelsea FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Tottenham Hotspur FC,AFC Bournemouth,AFC Bournemouth,Tottenham Hotspur FC,AWAY_TEAM,2.0,3.0,REGULAR
+2022,Manchester City FC,Leicester City FC,Manchester City FC,Leicester City FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,West Ham United FC,Arsenal FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Nottingham Forest FC,Manchester United FC,Manchester United FC,Nottingham Forest FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Leeds United FC,Liverpool FC,Liverpool FC,Leeds United FC,AWAY_TEAM,1.0,6.0,REGULAR
+2022,Arsenal FC,Southampton FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2022,Fulham FC,Leeds United FC,Fulham FC,Leeds United FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Liverpool FC,Nottingham Forest FC,Liverpool FC,Nottingham Forest FC,HOME_TEAM,3.0,2.0,REGULAR
+2022,Leicester City FC,Wolverhampton Wanderers FC,Leicester City FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Crystal Palace FC,Everton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Brentford FC,Aston Villa FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Newcastle United FC,Tottenham Hotspur FC,Newcastle United FC,Tottenham Hotspur FC,HOME_TEAM,6.0,1.0,REGULAR
+2022,AFC Bournemouth,West Ham United FC,West Ham United FC,AFC Bournemouth,AWAY_TEAM,0.0,4.0,REGULAR
+2022,Wolverhampton Wanderers FC,Crystal Palace FC,Wolverhampton Wanderers FC,Crystal Palace FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Aston Villa FC,Fulham FC,Aston Villa FC,Fulham FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Leeds United FC,Leicester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Nottingham Forest FC,Brighton & Hove Albion FC,Nottingham Forest FC,Brighton & Hove Albion FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Chelsea FC,Brentford FC,Brentford FC,Chelsea FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,West Ham United FC,Liverpool FC,Liverpool FC,West Ham United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,Manchester City FC,Arsenal FC,Manchester City FC,Arsenal FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Southampton FC,AFC Bournemouth,AFC Bournemouth,Southampton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Everton FC,Newcastle United FC,Newcastle United FC,Everton FC,AWAY_TEAM,1.0,4.0,REGULAR
+2022,Tottenham Hotspur FC,Manchester United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Crystal Palace FC,West Ham United FC,Crystal Palace FC,West Ham United FC,HOME_TEAM,4.0,3.0,REGULAR
+2022,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,HOME_TEAM,6.0,0.0,REGULAR
+2022,Brentford FC,Nottingham Forest FC,Brentford FC,Nottingham Forest FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Newcastle United FC,Southampton FC,Newcastle United FC,Southampton FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Manchester United FC,Aston Villa FC,Manchester United FC,Aston Villa FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Fulham FC,Manchester City FC,Manchester City FC,Fulham FC,AWAY_TEAM,1.0,2.0,REGULAR
+2022,AFC Bournemouth,Leeds United FC,AFC Bournemouth,Leeds United FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Liverpool FC,Tottenham Hotspur FC,Liverpool FC,Tottenham Hotspur FC,HOME_TEAM,4.0,3.0,REGULAR
+2022,Leicester City FC,Everton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Arsenal FC,Chelsea FC,Arsenal FC,Chelsea FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Manchester City FC,West Ham United FC,Manchester City FC,West Ham United FC,HOME_TEAM,3.0,0.0,REGULAR
+2022,Liverpool FC,Fulham FC,Liverpool FC,Fulham FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Brighton & Hove Albion FC,Manchester United FC,Brighton & Hove Albion FC,Manchester United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Wolverhampton Wanderers FC,Aston Villa FC,Wolverhampton Wanderers FC,Aston Villa FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Tottenham Hotspur FC,Crystal Palace FC,Tottenham Hotspur FC,Crystal Palace FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Manchester City FC,Leeds United FC,Manchester City FC,Leeds United FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,AFC Bournemouth,Chelsea FC,Chelsea FC,AFC Bournemouth,AWAY_TEAM,1.0,3.0,REGULAR
+2022,Liverpool FC,Brentford FC,Liverpool FC,Brentford FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Newcastle United FC,Arsenal FC,Arsenal FC,Newcastle United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,West Ham United FC,Manchester United FC,West Ham United FC,Manchester United FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Fulham FC,Leicester City FC,Fulham FC,Leicester City FC,HOME_TEAM,5.0,3.0,REGULAR
+2022,Brighton & Hove Albion FC,Everton FC,Everton FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,5.0,REGULAR
+2022,Nottingham Forest FC,Southampton FC,Nottingham Forest FC,Southampton FC,HOME_TEAM,4.0,3.0,REGULAR
+2022,Leeds United FC,Newcastle United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Southampton FC,Fulham FC,Fulham FC,Southampton FC,AWAY_TEAM,0.0,2.0,REGULAR
+2022,Manchester United FC,Wolverhampton Wanderers FC,Manchester United FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Crystal Palace FC,AFC Bournemouth,Crystal Palace FC,AFC Bournemouth,HOME_TEAM,2.0,0.0,REGULAR
+2022,Chelsea FC,Nottingham Forest FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,Aston Villa FC,Tottenham Hotspur FC,Aston Villa FC,Tottenham Hotspur FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Everton FC,Manchester City FC,Manchester City FC,Everton FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Brentford FC,West Ham United FC,Brentford FC,West Ham United FC,HOME_TEAM,2.0,0.0,REGULAR
+2022,Arsenal FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Arsenal FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Leicester City FC,Liverpool FC,Liverpool FC,Leicester City FC,AWAY_TEAM,0.0,3.0,REGULAR
+2022,Newcastle United FC,Brighton & Hove Albion FC,Newcastle United FC,Brighton & Hove Albion FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Tottenham Hotspur FC,Brentford FC,Brentford FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,3.0,REGULAR
+2022,Wolverhampton Wanderers FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Liverpool FC,Aston Villa FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Fulham FC,Crystal Palace FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2022,AFC Bournemouth,Manchester United FC,Manchester United FC,AFC Bournemouth,AWAY_TEAM,0.0,1.0,REGULAR
+2022,Nottingham Forest FC,Arsenal FC,Nottingham Forest FC,Arsenal FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,West Ham United FC,Leeds United FC,West Ham United FC,Leeds United FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Brighton & Hove Albion FC,Southampton FC,Brighton & Hove Albion FC,Southampton FC,HOME_TEAM,3.0,1.0,REGULAR
+2022,Manchester City FC,Chelsea FC,Manchester City FC,Chelsea FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Newcastle United FC,Leicester City FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2022,Brighton & Hove Albion FC,Manchester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Manchester United FC,Chelsea FC,Manchester United FC,Chelsea FC,HOME_TEAM,4.0,1.0,REGULAR
+2022,Southampton FC,Liverpool FC,Draw,Draw,DRAW,4.0,4.0,REGULAR
+2022,Manchester United FC,Fulham FC,Manchester United FC,Fulham FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Leicester City FC,West Ham United FC,Leicester City FC,West Ham United FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Leeds United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Leeds United FC,AWAY_TEAM,1.0,4.0,REGULAR
+2022,Everton FC,AFC Bournemouth,Everton FC,AFC Bournemouth,HOME_TEAM,1.0,0.0,REGULAR
+2022,Crystal Palace FC,Nottingham Forest FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Chelsea FC,Newcastle United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2022,Brentford FC,Manchester City FC,Brentford FC,Manchester City FC,HOME_TEAM,1.0,0.0,REGULAR
+2022,Aston Villa FC,Brighton & Hove Albion FC,Aston Villa FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2022,Arsenal FC,Wolverhampton Wanderers FC,Arsenal FC,Wolverhampton Wanderers FC,HOME_TEAM,5.0,0.0,REGULAR
+2023,Burnley FC,Manchester City FC,Manchester City FC,Burnley FC,AWAY_TEAM,0.0,3.0,REGULAR
+2023,Arsenal FC,Nottingham Forest FC,Arsenal FC,Nottingham Forest FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,AFC Bournemouth,West Ham United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Brighton & Hove Albion FC,Luton Town FC,Brighton & Hove Albion FC,Luton Town FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,Everton FC,Fulham FC,Fulham FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Sheffield United FC,Crystal Palace FC,Crystal Palace FC,Sheffield United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Newcastle United FC,Aston Villa FC,Newcastle United FC,Aston Villa FC,HOME_TEAM,5.0,1.0,REGULAR
+2023,Brentford FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Chelsea FC,Liverpool FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Manchester United FC,Wolverhampton Wanderers FC,Manchester United FC,Wolverhampton Wanderers FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Nottingham Forest FC,Sheffield United FC,Nottingham Forest FC,Sheffield United FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Fulham FC,Brentford FC,Brentford FC,Fulham FC,AWAY_TEAM,0.0,3.0,REGULAR
+2023,Liverpool FC,AFC Bournemouth,Liverpool FC,AFC Bournemouth,HOME_TEAM,3.0,1.0,REGULAR
+2023,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,AWAY_TEAM,1.0,4.0,REGULAR
+2023,Tottenham Hotspur FC,Manchester United FC,Tottenham Hotspur FC,Manchester United FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Manchester City FC,Newcastle United FC,Manchester City FC,Newcastle United FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Aston Villa FC,Everton FC,Aston Villa FC,Everton FC,HOME_TEAM,4.0,0.0,REGULAR
+2023,West Ham United FC,Chelsea FC,West Ham United FC,Chelsea FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Crystal Palace FC,Arsenal FC,Arsenal FC,Crystal Palace FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Chelsea FC,Luton Town FC,Chelsea FC,Luton Town FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,AFC Bournemouth,Tottenham Hotspur FC,Tottenham Hotspur FC,AFC Bournemouth,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Everton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Manchester United FC,Nottingham Forest FC,Manchester United FC,Nottingham Forest FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Arsenal FC,Fulham FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Brentford FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Brighton & Hove Albion FC,West Ham United FC,West Ham United FC,Brighton & Hove Albion FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Sheffield United FC,Manchester City FC,Manchester City FC,Sheffield United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Burnley FC,Aston Villa FC,Aston Villa FC,Burnley FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Newcastle United FC,Liverpool FC,Liverpool FC,Newcastle United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Luton Town FC,West Ham United FC,West Ham United FC,Luton Town FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Sheffield United FC,Everton FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Brentford FC,AFC Bournemouth,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Burnley FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Burnley FC,AWAY_TEAM,2.0,5.0,REGULAR
+2023,Chelsea FC,Nottingham Forest FC,Nottingham Forest FC,Chelsea FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Manchester City FC,Fulham FC,Manchester City FC,Fulham FC,HOME_TEAM,5.0,1.0,REGULAR
+2023,Brighton & Hove Albion FC,Newcastle United FC,Brighton & Hove Albion FC,Newcastle United FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Crystal Palace FC,Wolverhampton Wanderers FC,Crystal Palace FC,Wolverhampton Wanderers FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Liverpool FC,Aston Villa FC,Liverpool FC,Aston Villa FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Arsenal FC,Manchester United FC,Arsenal FC,Manchester United FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Wolverhampton Wanderers FC,Liverpool FC,Liverpool FC,Wolverhampton Wanderers FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Aston Villa FC,Crystal Palace FC,Aston Villa FC,Crystal Palace FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Fulham FC,Luton Town FC,Fulham FC,Luton Town FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Manchester United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Manchester United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Tottenham Hotspur FC,Sheffield United FC,Tottenham Hotspur FC,Sheffield United FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,West Ham United FC,Manchester City FC,Manchester City FC,West Ham United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Newcastle United FC,Brentford FC,Newcastle United FC,Brentford FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,AFC Bournemouth,Chelsea FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Everton FC,Arsenal FC,Arsenal FC,Everton FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Nottingham Forest FC,Burnley FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Crystal Palace FC,Fulham FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Luton Town FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Manchester City FC,Nottingham Forest FC,Manchester City FC,Nottingham Forest FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Brentford FC,Everton FC,Everton FC,Brentford FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Burnley FC,Manchester United FC,Manchester United FC,Burnley FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Arsenal FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Brighton & Hove Albion FC,AFC Bournemouth,Brighton & Hove Albion FC,AFC Bournemouth,HOME_TEAM,3.0,1.0,REGULAR
+2023,Chelsea FC,Aston Villa FC,Aston Villa FC,Chelsea FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Liverpool FC,West Ham United FC,Liverpool FC,West Ham United FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Sheffield United FC,Newcastle United FC,Newcastle United FC,Sheffield United FC,AWAY_TEAM,0.0,8.0,REGULAR
+2023,Aston Villa FC,Brighton & Hove Albion FC,Aston Villa FC,Brighton & Hove Albion FC,HOME_TEAM,6.0,1.0,REGULAR
+2023,AFC Bournemouth,Arsenal FC,Arsenal FC,AFC Bournemouth,AWAY_TEAM,0.0,4.0,REGULAR
+2023,Everton FC,Luton Town FC,Luton Town FC,Everton FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Manchester United FC,Crystal Palace FC,Crystal Palace FC,Manchester United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Newcastle United FC,Burnley FC,Newcastle United FC,Burnley FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,West Ham United FC,Sheffield United FC,West Ham United FC,Sheffield United FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Wolverhampton Wanderers FC,Manchester City FC,Wolverhampton Wanderers FC,Manchester City FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Tottenham Hotspur FC,Liverpool FC,Tottenham Hotspur FC,Liverpool FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Nottingham Forest FC,Brentford FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Fulham FC,Chelsea FC,Chelsea FC,Fulham FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Luton Town FC,Burnley FC,Burnley FC,Luton Town FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Luton Town FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Luton Town FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Burnley FC,Chelsea FC,Chelsea FC,Burnley FC,AWAY_TEAM,1.0,4.0,REGULAR
+2023,Everton FC,AFC Bournemouth,Everton FC,AFC Bournemouth,HOME_TEAM,3.0,0.0,REGULAR
+2023,Fulham FC,Sheffield United FC,Fulham FC,Sheffield United FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Manchester United FC,Brentford FC,Manchester United FC,Brentford FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Crystal Palace FC,Nottingham Forest FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Brighton & Hove Albion FC,Liverpool FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,West Ham United FC,Newcastle United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Wolverhampton Wanderers FC,Aston Villa FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Arsenal FC,Manchester City FC,Arsenal FC,Manchester City FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Liverpool FC,Everton FC,Liverpool FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,AFC Bournemouth,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,AFC Bournemouth,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Brentford FC,Burnley FC,Brentford FC,Burnley FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Manchester City FC,Brighton & Hove Albion FC,Manchester City FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Newcastle United FC,Crystal Palace FC,Newcastle United FC,Crystal Palace FC,HOME_TEAM,4.0,0.0,REGULAR
+2023,Nottingham Forest FC,Luton Town FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Chelsea FC,Arsenal FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Sheffield United FC,Manchester United FC,Manchester United FC,Sheffield United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Aston Villa FC,West Ham United FC,Aston Villa FC,West Ham United FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,Tottenham Hotspur FC,Fulham FC,Tottenham Hotspur FC,Fulham FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Crystal Palace FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Crystal Palace FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Chelsea FC,Brentford FC,Brentford FC,Chelsea FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,AFC Bournemouth,Burnley FC,AFC Bournemouth,Burnley FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Arsenal FC,Sheffield United FC,Arsenal FC,Sheffield United FC,HOME_TEAM,5.0,0.0,REGULAR
+2023,Wolverhampton Wanderers FC,Newcastle United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,West Ham United FC,Everton FC,Everton FC,West Ham United FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Aston Villa FC,Luton Town FC,Aston Villa FC,Luton Town FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Brighton & Hove Albion FC,Fulham FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Liverpool FC,Nottingham Forest FC,Liverpool FC,Nottingham Forest FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Manchester United FC,Manchester City FC,Manchester City FC,Manchester United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2023,Fulham FC,Manchester United FC,Manchester United FC,Fulham FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Brentford FC,West Ham United FC,Brentford FC,West Ham United FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Burnley FC,Crystal Palace FC,Crystal Palace FC,Burnley FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Everton FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Manchester City FC,AFC Bournemouth,Manchester City FC,AFC Bournemouth,HOME_TEAM,6.0,1.0,REGULAR
+2023,Sheffield United FC,Wolverhampton Wanderers FC,Sheffield United FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Newcastle United FC,Arsenal FC,Newcastle United FC,Arsenal FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Nottingham Forest FC,Aston Villa FC,Nottingham Forest FC,Aston Villa FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Luton Town FC,Liverpool FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Tottenham Hotspur FC,Chelsea FC,Chelsea FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,4.0,REGULAR
+2023,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Arsenal FC,Burnley FC,Arsenal FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Crystal Palace FC,Everton FC,Everton FC,Crystal Palace FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,Manchester United FC,Luton Town FC,Manchester United FC,Luton Town FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,AFC Bournemouth,Newcastle United FC,AFC Bournemouth,Newcastle United FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Aston Villa FC,Fulham FC,Aston Villa FC,Fulham FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Brighton & Hove Albion FC,Sheffield United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Liverpool FC,Brentford FC,Liverpool FC,Brentford FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,West Ham United FC,Nottingham Forest FC,West Ham United FC,Nottingham Forest FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Chelsea FC,Manchester City FC,Draw,Draw,DRAW,4.0,4.0,REGULAR
+2023,Manchester City FC,Liverpool FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Burnley FC,West Ham United FC,West Ham United FC,Burnley FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Luton Town FC,Crystal Palace FC,Luton Town FC,Crystal Palace FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Newcastle United FC,Chelsea FC,Newcastle United FC,Chelsea FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,Nottingham Forest FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Nottingham Forest FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,Sheffield United FC,AFC Bournemouth,AFC Bournemouth,Sheffield United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Brentford FC,Arsenal FC,Arsenal FC,Brentford FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Tottenham Hotspur FC,Aston Villa FC,Aston Villa FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Everton FC,Manchester United FC,Manchester United FC,Everton FC,AWAY_TEAM,0.0,3.0,REGULAR
+2023,Fulham FC,Wolverhampton Wanderers FC,Fulham FC,Wolverhampton Wanderers FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Arsenal FC,Wolverhampton Wanderers FC,Arsenal FC,Wolverhampton Wanderers FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Brentford FC,Luton Town FC,Brentford FC,Luton Town FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Burnley FC,Sheffield United FC,Burnley FC,Sheffield United FC,HOME_TEAM,5.0,0.0,REGULAR
+2023,Nottingham Forest FC,Everton FC,Everton FC,Nottingham Forest FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Newcastle United FC,Manchester United FC,Newcastle United FC,Manchester United FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,AFC Bournemouth,Aston Villa FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Chelsea FC,Brighton & Hove Albion FC,Chelsea FC,Brighton & Hove Albion FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Liverpool FC,Fulham FC,Liverpool FC,Fulham FC,HOME_TEAM,4.0,3.0,REGULAR
+2023,West Ham United FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Manchester City FC,Tottenham Hotspur FC,Draw,Draw,DRAW,3.0,3.0,REGULAR
+2023,Wolverhampton Wanderers FC,Burnley FC,Wolverhampton Wanderers FC,Burnley FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Luton Town FC,Arsenal FC,Arsenal FC,Luton Town FC,AWAY_TEAM,3.0,4.0,REGULAR
+2023,Brighton & Hove Albion FC,Brentford FC,Brighton & Hove Albion FC,Brentford FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Fulham FC,Nottingham Forest FC,Fulham FC,Nottingham Forest FC,HOME_TEAM,5.0,0.0,REGULAR
+2023,Sheffield United FC,Liverpool FC,Liverpool FC,Sheffield United FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Crystal Palace FC,AFC Bournemouth,AFC Bournemouth,Crystal Palace FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Aston Villa FC,Manchester City FC,Aston Villa FC,Manchester City FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Manchester United FC,Chelsea FC,Manchester United FC,Chelsea FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Everton FC,Newcastle United FC,Everton FC,Newcastle United FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Tottenham Hotspur FC,West Ham United FC,West Ham United FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Crystal Palace FC,Liverpool FC,Liverpool FC,Crystal Palace FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Brighton & Hove Albion FC,Burnley FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Manchester United FC,AFC Bournemouth,AFC Bournemouth,Manchester United FC,AWAY_TEAM,0.0,3.0,REGULAR
+2023,Sheffield United FC,Brentford FC,Sheffield United FC,Brentford FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Wolverhampton Wanderers FC,Nottingham Forest FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Aston Villa FC,Arsenal FC,Aston Villa FC,Arsenal FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Everton FC,Chelsea FC,Everton FC,Chelsea FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Fulham FC,West Ham United FC,Fulham FC,West Ham United FC,HOME_TEAM,5.0,0.0,REGULAR
+2023,Luton Town FC,Manchester City FC,Manchester City FC,Luton Town FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Tottenham Hotspur FC,Newcastle United FC,Tottenham Hotspur FC,Newcastle United FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,Nottingham Forest FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Nottingham Forest FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Chelsea FC,Sheffield United FC,Chelsea FC,Sheffield United FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Manchester City FC,Crystal Palace FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Newcastle United FC,Fulham FC,Newcastle United FC,Fulham FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Burnley FC,Everton FC,Everton FC,Burnley FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Arsenal FC,Brighton & Hove Albion FC,Arsenal FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Brentford FC,Aston Villa FC,Aston Villa FC,Brentford FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,West Ham United FC,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Liverpool FC,Manchester United FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Crystal Palace FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Aston Villa FC,Sheffield United FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,West Ham United FC,Manchester United FC,West Ham United FC,Manchester United FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Fulham FC,Burnley FC,Burnley FC,Fulham FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Luton Town FC,Newcastle United FC,Luton Town FC,Newcastle United FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Nottingham Forest FC,AFC Bournemouth,AFC Bournemouth,Nottingham Forest FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,Tottenham Hotspur FC,Everton FC,Tottenham Hotspur FC,Everton FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Liverpool FC,Arsenal FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Wolverhampton Wanderers FC,Chelsea FC,Wolverhampton Wanderers FC,Chelsea FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Newcastle United FC,Nottingham Forest FC,Nottingham Forest FC,Newcastle United FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,AFC Bournemouth,Fulham FC,AFC Bournemouth,Fulham FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Sheffield United FC,Luton Town FC,Luton Town FC,Sheffield United FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,Burnley FC,Liverpool FC,Liverpool FC,Burnley FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Manchester United FC,Aston Villa FC,Manchester United FC,Aston Villa FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Brentford FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Brentford FC,AWAY_TEAM,1.0,4.0,REGULAR
+2023,Chelsea FC,Crystal Palace FC,Chelsea FC,Crystal Palace FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Everton FC,Manchester City FC,Manchester City FC,Everton FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Brighton & Hove Albion FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,HOME_TEAM,4.0,2.0,REGULAR
+2023,Arsenal FC,West Ham United FC,West Ham United FC,Arsenal FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Luton Town FC,Chelsea FC,Chelsea FC,Luton Town FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,Aston Villa FC,Burnley FC,Aston Villa FC,Burnley FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Crystal Palace FC,Brentford FC,Crystal Palace FC,Brentford FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Manchester City FC,Sheffield United FC,Manchester City FC,Sheffield United FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Wolverhampton Wanderers FC,Everton FC,Wolverhampton Wanderers FC,Everton FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Nottingham Forest FC,Manchester United FC,Nottingham Forest FC,Manchester United FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Fulham FC,Arsenal FC,Fulham FC,Arsenal FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Tottenham Hotspur FC,AFC Bournemouth,Tottenham Hotspur FC,AFC Bournemouth,HOME_TEAM,3.0,1.0,REGULAR
+2023,Liverpool FC,Newcastle United FC,Liverpool FC,Newcastle United FC,HOME_TEAM,4.0,2.0,REGULAR
+2023,West Ham United FC,Brighton & Hove Albion FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Burnley FC,Luton Town FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Chelsea FC,Fulham FC,Chelsea FC,Fulham FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Newcastle United FC,Manchester City FC,Manchester City FC,Newcastle United FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,Everton FC,Aston Villa FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Manchester United FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Arsenal FC,Crystal Palace FC,Arsenal FC,Crystal Palace FC,HOME_TEAM,5.0,0.0,REGULAR
+2023,Brentford FC,Nottingham Forest FC,Brentford FC,Nottingham Forest FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Sheffield United FC,West Ham United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,AFC Bournemouth,Liverpool FC,Liverpool FC,AFC Bournemouth,AWAY_TEAM,0.0,4.0,REGULAR
+2023,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Nottingham Forest FC,Arsenal FC,Arsenal FC,Nottingham Forest FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Luton Town FC,Brighton & Hove Albion FC,Luton Town FC,Brighton & Hove Albion FC,HOME_TEAM,4.0,0.0,REGULAR
+2023,Fulham FC,Everton FC,Draw,Draw,DRAW,0.0,0.0,REGULAR
+2023,Crystal Palace FC,Sheffield United FC,Crystal Palace FC,Sheffield United FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Aston Villa FC,Newcastle United FC,Newcastle United FC,Aston Villa FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Tottenham Hotspur FC,Brentford FC,Tottenham Hotspur FC,Brentford FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,Manchester City FC,Burnley FC,Manchester City FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Liverpool FC,Chelsea FC,Liverpool FC,Chelsea FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,West Ham United FC,AFC Bournemouth,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Wolverhampton Wanderers FC,Manchester United FC,Manchester United FC,Wolverhampton Wanderers FC,AWAY_TEAM,3.0,4.0,REGULAR
+2023,Everton FC,Tottenham Hotspur FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Brighton & Hove Albion FC,Crystal Palace FC,Brighton & Hove Albion FC,Crystal Palace FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,Burnley FC,Fulham FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Newcastle United FC,Luton Town FC,Draw,Draw,DRAW,4.0,4.0,REGULAR
+2023,Sheffield United FC,Aston Villa FC,Aston Villa FC,Sheffield United FC,AWAY_TEAM,0.0,5.0,REGULAR
+2023,AFC Bournemouth,Nottingham Forest FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Chelsea FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Chelsea FC,AWAY_TEAM,2.0,4.0,REGULAR
+2023,Manchester United FC,West Ham United FC,Manchester United FC,West Ham United FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Arsenal FC,Liverpool FC,Arsenal FC,Liverpool FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Brentford FC,Manchester City FC,Manchester City FC,Brentford FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Manchester City FC,Everton FC,Manchester City FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Fulham FC,AFC Bournemouth,Fulham FC,AFC Bournemouth,HOME_TEAM,3.0,1.0,REGULAR
+2023,Liverpool FC,Burnley FC,Liverpool FC,Burnley FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Luton Town FC,Sheffield United FC,Sheffield United FC,Luton Town FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Wolverhampton Wanderers FC,Brentford FC,Brentford FC,Wolverhampton Wanderers FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Nottingham Forest FC,Newcastle United FC,Newcastle United FC,Nottingham Forest FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,West Ham United FC,Arsenal FC,Arsenal FC,West Ham United FC,AWAY_TEAM,0.0,6.0,REGULAR
+2023,Aston Villa FC,Manchester United FC,Manchester United FC,Aston Villa FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Crystal Palace FC,Chelsea FC,Chelsea FC,Crystal Palace FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Brentford FC,Liverpool FC,Liverpool FC,Brentford FC,AWAY_TEAM,1.0,4.0,REGULAR
+2023,Burnley FC,Arsenal FC,Arsenal FC,Burnley FC,AWAY_TEAM,0.0,5.0,REGULAR
+2023,Fulham FC,Aston Villa FC,Aston Villa FC,Fulham FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Newcastle United FC,AFC Bournemouth,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Nottingham Forest FC,West Ham United FC,Nottingham Forest FC,West Ham United FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Manchester City FC,Chelsea FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Sheffield United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Sheffield United FC,AWAY_TEAM,0.0,5.0,REGULAR
+2023,Luton Town FC,Manchester United FC,Manchester United FC,Luton Town FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,Everton FC,Crystal Palace FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Manchester City FC,Brentford FC,Manchester City FC,Brentford FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,Liverpool FC,Luton Town FC,Liverpool FC,Luton Town FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,Chelsea FC,Tottenham Hotspur FC,,,,,,REGULAR
+2023,Aston Villa FC,Nottingham Forest FC,Aston Villa FC,Nottingham Forest FC,HOME_TEAM,4.0,2.0,REGULAR
+2023,Brighton & Hove Albion FC,Everton FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Crystal Palace FC,Burnley FC,Crystal Palace FC,Burnley FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Manchester United FC,Fulham FC,Fulham FC,Manchester United FC,AWAY_TEAM,1.0,2.0,REGULAR
+2023,AFC Bournemouth,Manchester City FC,Manchester City FC,AFC Bournemouth,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Arsenal FC,Newcastle United FC,Arsenal FC,Newcastle United FC,HOME_TEAM,4.0,1.0,REGULAR
+2023,Wolverhampton Wanderers FC,Sheffield United FC,Wolverhampton Wanderers FC,Sheffield United FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,West Ham United FC,Brentford FC,West Ham United FC,Brentford FC,HOME_TEAM,4.0,2.0,REGULAR
+2023,Brentford FC,Chelsea FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Everton FC,West Ham United FC,West Ham United FC,Everton FC,AWAY_TEAM,1.0,3.0,REGULAR
+2023,Fulham FC,Brighton & Hove Albion FC,Fulham FC,Brighton & Hove Albion FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Newcastle United FC,Wolverhampton Wanderers FC,Newcastle United FC,Wolverhampton Wanderers FC,HOME_TEAM,3.0,0.0,REGULAR
+2023,Nottingham Forest FC,Liverpool FC,Liverpool FC,Nottingham Forest FC,AWAY_TEAM,0.0,1.0,REGULAR
+2023,Tottenham Hotspur FC,Crystal Palace FC,Tottenham Hotspur FC,Crystal Palace FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Luton Town FC,Aston Villa FC,Aston Villa FC,Luton Town FC,AWAY_TEAM,2.0,3.0,REGULAR
+2023,Burnley FC,AFC Bournemouth,AFC Bournemouth,Burnley FC,AWAY_TEAM,0.0,2.0,REGULAR
+2023,Manchester City FC,Manchester United FC,Manchester City FC,Manchester United FC,HOME_TEAM,3.0,1.0,REGULAR
+2023,Sheffield United FC,Arsenal FC,Arsenal FC,Sheffield United FC,AWAY_TEAM,0.0,6.0,REGULAR
+2023,Manchester United FC,Everton FC,Manchester United FC,Everton FC,HOME_TEAM,2.0,0.0,REGULAR
+2023,AFC Bournemouth,Sheffield United FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Crystal Palace FC,Luton Town FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Wolverhampton Wanderers FC,Fulham FC,Wolverhampton Wanderers FC,Fulham FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Arsenal FC,Brentford FC,Arsenal FC,Brentford FC,HOME_TEAM,2.0,1.0,REGULAR
+2023,Aston Villa FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Aston Villa FC,AWAY_TEAM,0.0,4.0,REGULAR
+2023,Brighton & Hove Albion FC,Nottingham Forest FC,Brighton & Hove Albion FC,Nottingham Forest FC,HOME_TEAM,1.0,0.0,REGULAR
+2023,West Ham United FC,Burnley FC,Draw,Draw,DRAW,2.0,2.0,REGULAR
+2023,Liverpool FC,Manchester City FC,Draw,Draw,DRAW,1.0,1.0,REGULAR
+2023,Chelsea FC,Newcastle United FC,Chelsea FC,Newcastle United FC,HOME_TEAM,3.0,2.0,REGULAR
+2023,AFC Bournemouth,Luton Town FC,AFC Bournemouth,Luton Town FC,HOME_TEAM,4.0,3.0,REGULAR
+2023,Crystal Palace FC,Newcastle United FC,,,,,,REGULAR
+2023,Manchester United FC,Sheffield United FC,,,,,,REGULAR
+2023,Wolverhampton Wanderers FC,AFC Bournemouth,,,,,,REGULAR
+2023,Arsenal FC,Chelsea FC,,,,,,REGULAR
+2023,Burnley FC,Brentford FC,,,,,,REGULAR
+2023,Luton Town FC,Nottingham Forest FC,,,,,,REGULAR
+2023,Fulham FC,Tottenham Hotspur FC,,,,,,REGULAR
+2023,Brighton & Hove Albion FC,Manchester City FC,,,,,,REGULAR
+2023,Everton FC,Liverpool FC,,,,,,REGULAR
+2023,West Ham United FC,Aston Villa FC,,,,,,REGULAR
+2023,Newcastle United FC,West Ham United FC,,,,,,REGULAR
+2023,AFC Bournemouth,Everton FC,,,,,,REGULAR
+2023,Chelsea FC,Burnley FC,,,,,,REGULAR
+2023,Nottingham Forest FC,Crystal Palace FC,,,,,,REGULAR
+2023,Sheffield United FC,Fulham FC,,,,,,REGULAR
+2023,Tottenham Hotspur FC,Luton Town FC,,,,,,REGULAR
+2023,Aston Villa FC,Wolverhampton Wanderers FC,,,,,,REGULAR
+2023,Brentford FC,Manchester United FC,,,,,,REGULAR
+2023,Liverpool FC,Brighton & Hove Albion FC,,,,,,REGULAR
+2023,Manchester City FC,Arsenal FC,,,,,,REGULAR
+2023,Nottingham Forest FC,Fulham FC,,,,,,REGULAR
+2023,Newcastle United FC,Everton FC,,,,,,REGULAR
+2023,AFC Bournemouth,Crystal Palace FC,,,,,,REGULAR
+2023,Burnley FC,Wolverhampton Wanderers FC,,,,,,REGULAR
+2023,West Ham United FC,Tottenham Hotspur FC,,,,,,REGULAR
+2023,Arsenal FC,Luton Town FC,,,,,,REGULAR
+2023,Brentford FC,Brighton & Hove Albion FC,,,,,,REGULAR
+2023,Manchester City FC,Aston Villa FC,,,,,,REGULAR
+2023,Liverpool FC,Sheffield United FC,,,,,,REGULAR
+2023,Chelsea FC,Manchester United FC,,,,,,REGULAR
+2023,Crystal Palace FC,Manchester City FC,,,,,,REGULAR
+2023,Aston Villa FC,Brentford FC,,,,,,REGULAR
+2023,Everton FC,Burnley FC,,,,,,REGULAR
+2023,Fulham FC,Newcastle United FC,,,,,,REGULAR
+2023,Luton Town FC,AFC Bournemouth,,,,,,REGULAR
+2023,Wolverhampton Wanderers FC,West Ham United FC,,,,,,REGULAR
+2023,Brighton & Hove Albion FC,Arsenal FC,,,,,,REGULAR
+2023,Manchester United FC,Liverpool FC,,,,,,REGULAR
+2023,Sheffield United FC,Chelsea FC,,,,,,REGULAR
+2023,Tottenham Hotspur FC,Nottingham Forest FC,,,,,,REGULAR
+2023,Newcastle United FC,Tottenham Hotspur FC,,,,,,REGULAR
+2023,Brentford FC,Sheffield United FC,,,,,,REGULAR
+2023,Burnley FC,Brighton & Hove Albion FC,,,,,,REGULAR
+2023,Manchester City FC,Luton Town FC,,,,,,REGULAR
+2023,Nottingham Forest FC,Wolverhampton Wanderers FC,,,,,,REGULAR
+2023,West Ham United FC,Fulham FC,,,,,,REGULAR
+2023,Arsenal FC,Aston Villa FC,,,,,,REGULAR
+2023,Liverpool FC,Crystal Palace FC,,,,,,REGULAR
+2023,AFC Bournemouth,Manchester United FC,,,,,,REGULAR
+2023,Chelsea FC,Everton FC,,,,,,REGULAR
+2023,Aston Villa FC,AFC Bournemouth,,,,,,REGULAR
+2023,Brighton & Hove Albion FC,Chelsea FC,,,,,,REGULAR
+2023,Crystal Palace FC,West Ham United FC,,,,,,REGULAR
+2023,Everton FC,Nottingham Forest FC,,,,,,REGULAR
+2023,Fulham FC,Liverpool FC,,,,,,REGULAR
+2023,Luton Town FC,Brentford FC,,,,,,REGULAR
+2023,Manchester United FC,Newcastle United FC,,,,,,REGULAR
+2023,Sheffield United FC,Burnley FC,,,,,,REGULAR
+2023,Tottenham Hotspur FC,Manchester City FC,,,,,,REGULAR
+2023,Wolverhampton Wanderers FC,Arsenal FC,,,,,,REGULAR
+2023,AFC Bournemouth,Brighton & Hove Albion FC,,,,,,REGULAR
+2023,Aston Villa FC,Chelsea FC,,,,,,REGULAR
+2023,Everton FC,Brentford FC,,,,,,REGULAR
+2023,Fulham FC,Crystal Palace FC,,,,,,REGULAR
+2023,Manchester United FC,Burnley FC,,,,,,REGULAR
+2023,Newcastle United FC,Sheffield United FC,,,,,,REGULAR
+2023,Nottingham Forest FC,Manchester City FC,,,,,,REGULAR
+2023,Tottenham Hotspur FC,Arsenal FC,,,,,,REGULAR
+2023,West Ham United FC,Liverpool FC,,,,,,REGULAR
+2023,Wolverhampton Wanderers FC,Luton Town FC,,,,,,REGULAR
+2023,Arsenal FC,AFC Bournemouth,,,,,,REGULAR
+2023,Brentford FC,Fulham FC,,,,,,REGULAR
+2023,Brighton & Hove Albion FC,Aston Villa FC,,,,,,REGULAR
+2023,Burnley FC,Newcastle United FC,,,,,,REGULAR
+2023,Chelsea FC,West Ham United FC,,,,,,REGULAR
+2023,Crystal Palace FC,Manchester United FC,,,,,,REGULAR
+2023,Liverpool FC,Tottenham Hotspur FC,,,,,,REGULAR
+2023,Luton Town FC,Everton FC,,,,,,REGULAR
+2023,Manchester City FC,Wolverhampton Wanderers FC,,,,,,REGULAR
+2023,Sheffield United FC,Nottingham Forest FC,,,,,,REGULAR
+2023,AFC Bournemouth,Brentford FC,,,,,,REGULAR
+2023,Aston Villa FC,Liverpool FC,,,,,,REGULAR
+2023,Everton FC,Sheffield United FC,,,,,,REGULAR
+2023,Fulham FC,Manchester City FC,,,,,,REGULAR
+2023,Manchester United FC,Arsenal FC,,,,,,REGULAR
+2023,Newcastle United FC,Brighton & Hove Albion FC,,,,,,REGULAR
+2023,Nottingham Forest FC,Chelsea FC,,,,,,REGULAR
+2023,Tottenham Hotspur FC,Burnley FC,,,,,,REGULAR
+2023,West Ham United FC,Luton Town FC,,,,,,REGULAR
+2023,Wolverhampton Wanderers FC,Crystal Palace FC,,,,,,REGULAR
+2023,Arsenal FC,Everton FC,,,,,,REGULAR
+2023,Brentford FC,Newcastle United FC,,,,,,REGULAR
+2023,Brighton & Hove Albion FC,Manchester United FC,,,,,,REGULAR
+2023,Burnley FC,Nottingham Forest FC,,,,,,REGULAR
+2023,Chelsea FC,AFC Bournemouth,,,,,,REGULAR
+2023,Crystal Palace FC,Aston Villa FC,,,,,,REGULAR
+2023,Liverpool FC,Wolverhampton Wanderers FC,,,,,,REGULAR
+2023,Luton Town FC,Fulham FC,,,,,,REGULAR
+2023,Manchester City FC,West Ham United FC,,,,,,REGULAR
+2023,Sheffield United FC,Tottenham Hotspur FC,,,,,,REGULAR

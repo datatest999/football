@@ -1,0 +1,8 @@
+{
+    "api_token": "12abfbaacdab48bc8948ed6061925e1f",
+    "base_url": "https://api.football-data.org/v4",
+    "league_id": 2021,
+    "seasons": [2020, 2021, 2022, 2023],
+    "csv_filename": "epl_teams_performance.csv"
+  }
+  

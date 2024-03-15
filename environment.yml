@@ -1,0 +1,42 @@
+name: new
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2023.12.12=hecd8cb5_0
+  - libcxx=14.0.6=h9765a3e_0
+  - libedit=3.1.20230828=h6c40b1e_0
+  - libffi=3.2.1=h0a44026_1007
+  - ncurses=6.4=hcec6c5f_0
+  - openssl=1.1.1w=hca72f7f_0
+  - pip=23.3.1=py38hecd8cb5_0
+  - python=3.8.0=h359304d_2
+  - readline=7.0=h1de35cc_5
+  - setuptools=68.2.2=py38hecd8cb5_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.12=h5d9f67b_0
+  - wheel=0.41.2=py38hecd8cb5_0
+  - xz=5.4.6=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+  - pip:
+      - certifi==2024.2.2
+      - charset-normalizer==3.3.2
+      - contourpy==1.1.1
+      - cycler==0.12.1
+      - fonttools==4.49.0
+      - idna==3.6
+      - importlib-resources==6.3.0
+      - kiwisolver==1.4.5
+      - matplotlib==3.7.5
+      - numpy==1.24.4
+      - packaging==24.0
+      - pandas==2.0.3
+      - pillow==10.2.0
+      - pyparsing==3.1.2
+      - python-dateutil==2.9.0.post0
+      - pytz==2024.1
+      - requests==2.31.0
+      - six==1.16.0
+      - tzdata==2024.1
+      - urllib3==2.2.1
+      - zipp==3.18.0
+prefix: /Users/amin/anaconda3/envs/new
